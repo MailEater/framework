@@ -237,7 +237,7 @@ public class RetailAccountSteps extends CommonUtility {
 	@Then("Address details should be removed")
 	public void addressDetailsShouldBeRemoved() {
 		assertFalse(isElementDisplayed(factory.RetailAccount().removeAddressBtn));
-		logger.info("Address details has been removed successfully");
+		logger.info("Address details has been removed successfully.");
 	}
 
 }
