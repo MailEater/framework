@@ -70,8 +70,6 @@ public class RetailAccount extends BaseSetup{
 	@FindBy(xpath = "//div[@class = 'Toastify__toast-body']")
 	public WebElement paymentSubmittedSuccessfullyMessage; 
 	
-	
-	
 	@FindBy(xpath = "//button[text() ='Edit']']")
 	public WebElement editCardInfo;
 	

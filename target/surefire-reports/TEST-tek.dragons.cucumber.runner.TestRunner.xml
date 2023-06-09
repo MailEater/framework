@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.dragons.cucumber.runner.TestRunner" time="39.877" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.dragons.cucumber.runner.TestRunner" time="84.903" tests="7" errors="2" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\mials\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\mials\AppData\Local\Temp\surefire5812822735923822984\surefirebooter-20230531164845354_3.jar C:\Users\mials\AppData\Local\Temp\surefire5812822735923822984 2023-05-31T16-48-44_844-jvmRun1 surefire-20230531164845354_1tmp surefire_0-20230531164845354_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\mials\AppData\Local\Temp\surefire13917890848209680332\surefirebooter-20230531212408579_3.jar C:\Users\mials\AppData\Local\Temp\surefire13917890848209680332 2023-05-31T21-24-08_132-jvmRun1 surefire-20230531212408579_1tmp surefire_0-20230531212408579_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\mials\eclipse-workspace\tek.dragons.cucumber\target\test-classes;C:\Users\mials\eclipse-workspace\tek.dragons.cucumber\target\classes;C:\Users\mials\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\mials\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\mials\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\mials\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\mials\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\mials\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\mials\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\mials\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\mials\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\mials\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-junit\7.8.0\cucumber-junit-7.8.0.jar;C:\Users\mials\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\mials\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-java\4.8.3\selenium-java-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-api\4.8.3\selenium-api-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.8.3\selenium-chrome-driver-4.8.3.jar;C:\Users\mials\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\mials\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\mials\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\mials\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\mials\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\mials\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\mials\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.8.3\selenium-chromium-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-json\4.8.3\selenium-json-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.8.3\selenium-manager-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v109\4.8.3\selenium-devtools-v109-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v110\4.8.3\selenium-devtools-v110-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v111\4.8.3\selenium-devtools-v111-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.8.3\selenium-devtools-v85-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.8.3\selenium-edge-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.8.3\selenium-firefox-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-http\4.8.3\selenium-http-4.8.3.jar;C:\Users\mials\.m2\repository\dev\failsafe\failsafe\3.3.1\failsafe-3.3.1.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.8.3\selenium-ie-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.8.3\selenium-remote-driver-4.8.3.jar;C:\Users\mials\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\mials\.m2\repository\io\netty\netty-buffer\4.1.90.Final\netty-buffer-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec-http\4.1.90.Final\netty-codec-http-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec\4.1.90.Final\netty-codec-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-handler\4.1.90.Final\netty-handler-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-common\4.1.90.Final\netty-common-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.90.Final\netty-transport-classes-epoll-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.90.Final\netty-transport-classes-kqueue-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-epoll\4.1.90.Final\netty-transport-native-epoll-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.90.Final\netty-transport-native-kqueue-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.90.Final\netty-transport-native-unix-common-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport\4.1.90.Final\netty-transport-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-resolver\4.1.90.Final\netty-resolver-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api\1.24.0\opentelemetry-api-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-context\1.24.0\opentelemetry-context-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.24.0\opentelemetry-exporter-logging-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.24.0\opentelemetry-sdk-metrics-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.24.0-alpha\opentelemetry-sdk-logs-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.24.0-alpha\opentelemetry-api-logs-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.24.0-alpha\opentelemetry-api-events-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.24.0\opentelemetry-sdk-common-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.24.0\opentelemetry-sdk-extension-autoconfigure-spi-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.24.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.24.0\opentelemetry-sdk-trace-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.24.0\opentelemetry-sdk-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.24.0-alpha\opentelemetry-semconv-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\mials\.m2\repository\net\bytebuddy\byte-buddy\1.14.2\byte-buddy-1.14.2.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mials\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\mials\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\mials\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\mials\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\mials\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.8.3\selenium-safari-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-support\4.8.3\selenium-support-4.8.3.jar;C:\Users\mials\.m2\repository\io\github\bonigarcia\webdrivermanager\5.3.0\webdrivermanager-5.3.0.jar;C:\Users\mials\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\mials\.m2\repository\com\google\code\gson\gson\2.9.1\gson-2.9.1.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java\3.2.13\docker-java-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-core\3.2.13\docker-java-core-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\mials\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\mials\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\mials\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.13\docker-java-transport-httpclient5-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\mials\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\mials\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\mials\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\mials\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\mials\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\mials\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\mials\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\mials\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar;C:\Users\mials\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar;C:\Users\mials\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\mials\.m2\repository\org\yaml\snakeyaml\1.33\snakeyaml-1.33.jar;C:\Users\mials\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\mials\AppData\Local\Temp\surefire5812822735923822984\surefirebooter-20230531164845354_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\mials\AppData\Local\Temp\surefire13917890848209680332\surefirebooter-20230531212408579_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.4.1+1"/>
@@ -58,45 +58,60 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="Verify Shop by Department sidebar" classname="Retail Home Page" time="6.62">
+  <testcase name="Verify User can update Profile Information" classname="Retail Account Page" time="8.547">
     <system-out><![CDATA[
-@test
-Scenario: Verify Shop by Department sidebar                    # features/Home.feature:8
+@smoke
+Scenario: Verify User can update Profile Information                     # features/RetailAccount.feature:13
  INFO [main] (HomeSteps.java:24)- User is on homepage
-  Given User is on retail website                              # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
- INFO [main] (HomeSteps.java:32)- User clicked on 'All Section button'
-  When User click on All section                               # tek.dragons.cucumber.steps.HomeSteps.userClickOnAllSection()
- INFO [main] (HomeSteps.java:43)- User is on Shop by Deparment sidebar
-  Then below options are present in Shop by Department sidebar # tek.dragons.cucumber.steps.HomeSteps.belowOptionsArePresentInShopByDepartmentSidebar(io.cucumber.datatable.DataTable)
-    | Electronics | Computers | Smart Home | Sports | Automative |
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:34)- User updated name and phone values
+  And User update Name â€˜NameValueâ€™ and Phone â€˜PhoneValueâ€™                # tek.dragons.cucumber.steps.RetailAccountSteps.userUpdateNameNameValueAndPhonePhoneValue()
+ INFO [main] (RetailAccountSteps.java:40)- User clicked on update button
+  And User click on Update button                                        # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnUpdateButton()
+ INFO [main] (RetailAccountSteps.java:49)- User information has been updated!
+ INFO [main] (RetailAccountSteps.java:50)- New Name: Ariel Koepp II
+ INFO [main] (RetailAccountSteps.java:51)- New Phone Number: 1-445-538-6184
+  Then user profile information should be updated                        # tek.dragons.cucumber.steps.RetailAccountSteps.userProfileInformationShouldBeUpdated()
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
-1685576927504	geckodriver	INFO	Listening on 127.0.0.1:6238
-1685576927820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37002" "--remote ... localhost:37002/,http://[::1]:37002/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileOVavHX"
+1685593450478	geckodriver	INFO	Listening on 127.0.0.1:43784
+1685593450786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38462" "--remote ... localhost:38462/,http://[::1]:38462/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofilefXWyvl"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576928103	Marionette	INFO	Marionette enabled
+1685593451074	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1685576928108	Marionette	INFO	Listening on port 61743
-Read port: 61743
-WebDriver BiDi listening on ws://127.0.0.1:37002
-1685576928214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685593451078	Marionette	INFO	Listening on port 64665
+Read port: 64665
+WebDriver BiDi listening on ws://127.0.0.1:38462
+1685593451184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:37002/devtools/browser/1bc50db9-1b63-4232-929e-4eae7badd603
-1685576932333	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:61799
-1685576932336	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576932362	Marionette	INFO	Stopped listening on port 61743
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 7920, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+DevTools listening on ws://127.0.0.1:38462/devtools/browser/2901ab4f-aae9-40ef-bd06-fb30a11a9ac9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1685593457214	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:64719
+1685593457220	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593457265	Marionette	INFO	Stopped listening on port 64665
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 12728, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 Dynamically enable window occlusion 1
 WARNING: A blocker encountered an error while we were waiting.
           Blocker:  Waiting for ping task
@@ -142,48 +157,48 @@ WARNING: A blocker encountered an error while we were waiting.
 WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
 addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:J458a:v1a5Sc
+rsiept teurprSohru:t dreoswonu@rrcees:o/u/rgcree://m/ogdruel/emso/dAuslesy/nocsfSihleu/tosdfoiwlne_as.ynscy_sf.rmojnst,. jlsimn:e1 574287::2 8Er
+@rroers:ourc e:P//hgrae/msoed ul"eps/roosffiliel/eos-fbielfe_aosyrnec-_cfhroannt.jgsem":1 5i6s8:16 f
+@irensiosuhrceed://,g riet/ moidsu letoo sl/atoes ftiole.js mr:1e2g:3i0st
+@reseourrc ec:o//mgprlee/tmioodnule s/cTeolnedmiettryiSotno r"aOgSe..Fsiyles:. mfjlsu:s1h0 I:/2O8 q
+u_ecuheedc kbPeenfdoirneg Ppirnogfsi@lreesoBurecfeo:r/e/Cgrhea/nmgoed"ul
+es/TelemJeatvraySScreinptd .esryrso.rm:j sr:e8s5o9:u1r7ce
+:s/e/tgurpe@/rmeodsuoluersc/eA:s/y/ngcreS/hmuotdduolwens./sTyesl.emmjest,r ylSienned. s7y2s7:. mEjrs:r7o9r9::18 P
+hsetuap@rseseou r"cper:/o/grfei/lmeo-dbuelfeso/rTee-lcehmeatnrygSee"nd .issy s.fmjisn:i2s3h7e:d30, 
+iste tiusp Tteoloe mleattrey /ttoh isr.e_gdeilsatyeerd IcniotmTpalsekt<i@roens ocuorncdei:t/i/ognr e"/OmSo.dFuillees:/ Tfelluesmhe tIr/yOC oqnuteruoeldl ebrePfaorreen t.psryosf.imljesB:8e2f4o:r3e6Ch
+oabnsgeer"ve
+@JreasvoauSrccrei:p/t/ gerrer/omro:d urleesso/uArsycnec:S/h/ugtrdeo/wmno.dsuylse.sm/jAs:s57y6n:c1S6h
+ut
+dWoAwRnNI.NsGy:s .Am jbsl,o clkienre  e7n2c7o:u nEtrreorre:d  Pahna seer r"oprr owfhiillee- bweef owreer-ec hwaanitgineg". i
+ s      f  i n iBslhoecdk,er :i t  Tielesm ettroyoC olnattreo ltloe r:re gsihsuttetri ncogm dopwlneti
+on    c o n d i t i oPnh a"sOeS:. Fpriolfei:l ef-lbuesfhor eI-/cOh aqnugeeu-etde lbeemfeortery 
+ p r o f  i leB e  fSorteaCthea:n gEer"ro
+rJ agveatStcirnigp ts tearrtoer::  Errersooru:r cPeh:a/s/ger e"/pmroodfuilelse/-AbseyfnocrSeh-ucthdanogwn.es" yiss. mfjisn,i slhiende,  7i2t7 :i sE rtrooro:  lPahtaes et o" prreogfiilset-ebre fcore-chanoge"m pilse tfiionni scheodn,d iitti ois nt o"oOS. lFaitlee :t of lushr eIg/iOs tqeure uceodm plbeetfioorne  cpornodfiitlieoBn e"fOoSr.eFCihlaen:g ef"l uasth  aId/dOB lqoucekueerd@ rbeesofuorrcee :p/r/ogfrilee/BmeofdoulreesC/hAasnygnec"Sh
+uJtadvoawSnc.rsipty se.rmrjosr::7 2r7e:s1o5urc
+ea:d/d/Bglroec/kmeord@ulrees/sAosurcey:n/c/Sghruet/dmoowdnu.lseyss/.Amsjysn, clSihnuet d7o2w7n:. sEyrsr.omrj:s :P5h2a3s:e2 6"p
+raodfdiBlleo-cbkeefro@rree-scohuarncgee":/ /igsr ef/imnoidsuhleeds,/ itA iss tyoon clSahtuet dtoown .rseysg.imsjtse:r4 5c8o:m1p5le
+stetiupoShnut docwno@nredsoiutricoen: //"gre/OmSo.duFles/oislfeil:e /folsufsihl eI_/O qauesuyendc _bfreofnotr.ej smp:1r5o4f8:i28le
+B@erefsoourrcee://Cgrhe/amnogdeu"le
+sJ/aovsafSiclrei/pots fielrer_aosry:n cr_efsroounrtc.ej:s//mg:r1e5/6m8o:d1u6le
+s@/rAessyonucrScheu:t/d/ogwrne./smyosd.umljess,/ olsifniel e7.2jsm7::1 2E:r3r0or
+:@ Phase "profile-berfoere-scohuange"r cie:/s/ gfrien/imshoeddu,l eist/ Tiesl etmoeot rlyaStteo rtaog er.esgyiss.tmejrs :c1o0m:p2l8et
+i_cohne cckondPietnidoinn g"OPSi.nFgisl@er:e sfoluursce:h/ /Ig/rOe/ mqoudeuuleeds /bTeefloermee tprryoSfeinlde.Bseyfso.rmejCsh:a859n:g1e7"
+
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
 addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
 setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
 @resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
 @resource://gre/modules/osfile.jsm:12:30
 @resource://gre/modules/TelemetryStorage.sys.mjs:10:28
 _checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
-setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
-setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
-observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
-
-WARNING: A blocker encountered an error while we were waiting.
-          Blocker:  TelemetryController: shutting down
-          Phase: profile-before-change-JtaelveamSectrriypt
-  e r r o r :   r e sSotuartcee:: /E/rgrroer/ mgoedtulteisn/gA sstyaten:c ErrSohru:t Pdhoase "wpnr.osfyisl.em-jbse,f olrien-ec h7a2n7ge:"  Eirsr ofr:i nPihsashee d",p riotf iilse -tboeof olraet-ec htaon gree" is finished, it is too late gtoi srteegri scteormp lcomeptlietoino nc ocnodnidittiioon "OS.Filen: " OfSl.uFsilhe :I/ Of lquushe ueId/ O bqeufeoureed p rboeffiolreBeforeChange"e pr
-ofileBeforeChange"J aavta SacdrdiBplto cekrerro@rr:e sroeusrocuer://grec/em:o/d/uglree/sm/oAdsuylnecsS/hAusytndown.sys.cmSjs:h7u2t7d:15
-addBlocker@resource://gre/modules/AsyncShutdown.sysown.s.ymsj.sm:j52s3,: 2l6in
-ea d7d2B7l:o cEkrerr@resooru:r cPeh:a/s/eg r"ep/rmoodfuillees-/bAseyfnocrSeh-ucthdaonwgne."s yiss. mfjisn:i4s5h8e:d1,5 i
-ts eitsu ptSohou tldaotwen @troe sroeugricset:e/r/ gcroem/pmloetidounl ecso/nodsiftilieo/no s"fOiSl.eF_ialsey:n cf_flruosnht .Ij/sOm :q1u5e4u8e:d2 8be
-f@orrees opurrocfei:l/eB/egfroer/emCohdaunlgee"
-Jsava/Socsrfiiplte /eorsrfoirl:e _raesysnocu_rfcreo:n/t/.gjrsem/:m1o5d6u8l:e1s6/A
-@resource://gre/mosdulyensc/Sohsuftidloew.njs.ms:y1s2.:m3j0
-s@,r elsionuer c7e2:7/:/ gErrer/omro:d uPlheass/eT e"lpermoeftirlyeS-tboerfaogree.-sycsh.amnjgse:"1 0is: 2f8in
-i_schheedc,k Pietn diisngP itnogos @lraetseo utroc er:e/g/igsret/emro dcuolmepsl/eTteiloenm ectornydSietnido.ns y"sO.Sm.jFsi:l8e5:9 :f1l7us
-hs eIt/uOp @qrueesuoeudr cbee:f/o/rger ep/rmoofdiulleeBse/fToerleeCmheatnrgyeS"en
-dJ.asvyasS.cmrjisp:t7 9e9r:r1o8r:
- sreetsouurpc@er:e/s/ogurrec/em:o/d/uglrees//mAosdyunlceSsh/uTtedloewmne.tsryysS.emnjds.,s ylsi.nmej s7:2273:7 :E3r0ro
-rs:e tPuhpaTseel e"mpertofriyl/et-hbiesf.o_rdee-lcahyaendIngiet"T aissk <f@irneissohuerdc, ei:t i/s/ gtroeo/ moldualtees /Tteol ermeegtirsytCeorn tcroomlplleetriPona rceonntd.istyiso.nm j"sO:S824.:F3i6le
-:o bfsleursvhe @Ir/eOs oquurecuee:d/ /bgerfeo/rmeo dpurloefsil/eABseyfonrceSChhuatndgoew"n
-.Jsayvsa.Smcjrsi:p5t7 6e:r1r6or
-: 
-rWeAsRoNuIrNcGe:: /E/rgrroer/:m oPdhualsees /"ApsryonfciSlheu-tbefdore-ocwhna.nsgyes.m"j si,s  lfinien i7s2h7e:d ,E rirto ri:s P htaosoe  l"aprtoe to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-WARNING: addBlocker@resource:f//girlee/-mboedfuorel-ecsh/aAngsey"n ciSsh utdown.sys.mjs:727:1f5i
-naidsdhBeldo,c kietr @irse tsooou rlcaet:e/ to r/eggries/tmeord cuolmepsl/eAtsiyonnc cSohnudtidtoiwonn. s"OySs..Fmijlse::5 2f3l:u26sh
- aId/dOB lqoucekueerd@ breesfoourrec ep:r/ofi/lgerBee/fmoordeuClheasn/gAes"yn
-cJSahvuatSdcorwinp.ts yesr.rmojrs:: 4r5e8s:o1u5rc
-es:e/t/ugprSehutdown@resource://gre/modules/osfile//osmfodilue_aslyensc/_front.jsmA:s1y548:28
-@resonurcceS:h/u/tgre/modudleosw/no.ssfiylse./mojssf,i llei_ansey n7c_2f7r:o nEtr.rjosrm:: 1P5h6a8s:e 1"p6ro
-f@irlees-obuerfcoer:e/-/chgarneg/em"o idules/ossf iflien.ijsshme:d,1 2i:t3 i0s 
-t@oroe sloautrec et:o/ /rgergei/smtoerd ucloemspl/eTteiloemne tcroynSdtiotriaogne ".OSs.yFsi.lmej:s :f1l0us:h2 8I/
-O_ cqhueecukPendeindg Pbienfgosr@er epsrofileBeforeChangoeu"rc
-e://gre/modules/TelemetrySend.sys.mjs:859:17
 setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
 setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
 setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
@@ -191,172 +206,58 @@ observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
 
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #1" classname="Retail Home Page" time="5.378">
+  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="8.146">
     <system-out><![CDATA[
-@test
-Scenario Outline: Verify department sidebar options # features/Home.feature:20
+@smoke
+Scenario: Verify User can add a payment method                           # features/RetailAccount.feature:20
  INFO [main] (HomeSteps.java:24)- User is on homepage
-  Given User is on retail website                   # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
- INFO [main] (HomeSteps.java:32)- User clicked on 'All Section button'
-  When User click on All section                    # tek.dragons.cucumber.steps.HomeSteps.userClickOnAllSection()
-  And User on "Electronics"                         # tek.dragons.cucumber.steps.HomeSteps.userOnDepartment(java.lang.String)
- INFO [main] (HomeSteps.java:73)- TV & Video is present
-  Then below options are present in department      # tek.dragons.cucumber.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
-    | TV & Video | Video Games |
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:57)- User clicked on add payment method link
+  And User click on Add a payment method link                            # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddAPaymentMethodLink()
+ INFO [main] (RetailAccountSteps.java:73)- User has filled in their debit/credit information
+  And User fill Debit or credit card information                         # tek.dragons.cucumber.steps.RetailAccountSteps.userFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)
+    | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
+    | cardNumber | nameCard   | 8               | 2035           | securityCode |
+ INFO [main] (RetailAccountSteps.java:79)- User clicked on add your card button
+  And User click on Add your card button                                 # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddYourCardButton()
+ INFO [main] (RetailAccountSteps.java:86)- User has seccessfully added their payment method
+  Then a message should be displayed â€˜Payment Method added successfullyâ€™ # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully()
 ]]></system-out>
-    <system-err><![CDATA[1685576933318	geckodriver	INFO	Listening on 127.0.0.1:48992
-1685576933383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2250" "--remote- ... //localhost:2250/,http://[::1]:2250/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofiler2gykv"
+    <system-err><![CDATA[1685593458272	geckodriver	INFO	Listening on 127.0.0.1:6802
+1685593458343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10437" "--remote ... localhost:10437/,http://[::1]:10437/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofile72olol"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576933703	Marionette	INFO	Marionette enabled
+1685593458736	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1685576933708	Marionette	INFO	Listening on port 61804
-Read port: 61804
-WebDriver BiDi listening on ws://127.0.0.1:2250
-1685576933821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685593458741	Marionette	INFO	Listening on port 64724
+Read port: 64724
+WebDriver BiDi listening on ws://127.0.0.1:10437
+1685593458860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:2250/devtools/browser/af0a5992-3561-4ba9-b5b6-ae033d4f050c
-1685576937829	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:61858
-1685576937835	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576937839	Marionette	INFO	Stopped listening on port 61804
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 30588, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-Dynamically enable window occlusion 1
-WARNING: A blocker encountered an error while we were waiting.
-          Blocker:  Waiting for ping task
-          Phase: TelemetryController: Waiting for pending ping activity
-          State: (none)
-WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
-setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
-@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
-@resource://gre/modules/osfile.jsm:12:30
-@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
-_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
-setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
-setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
-observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
-
-console.error: "TelemetryScheduler.shutdown - Already shut down"
-WARNING: A blocker encountered an error while we were waiting.
-          Blocker:  Waiting for ping task
-          Phase: TelemetryController: Waiting for pending ping activity
-          State: (none)
-WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
-setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
-@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
-@resource://gre/modules/osfile.jsm:12:30
-@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
-_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
-setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
-setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
-observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
-
-WARNING: A blocker encountered an error while we were waiting.
-          Blocker:  Waiting for ping task
-          Phase: TelemetryController: Waiting for pending ping activity
-          State: (none)
-WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
-setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
-@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
-@resource://gre/modules/osfile.jsm:12:30
-@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
-_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
-setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
-setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
-observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
-
-WARNING: A blocker encountered an error while we were waiting.
-          Blocker:  TelemetryController: shutting down
-          Phase: profile-before-change-telemetry
-          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
-addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
-setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
-@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
-@resource://gre/modules/osfile.jsm:12:30
-@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
-_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
-setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
-setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
-observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
-
-WARNING: Error: Phase "profile-beforJe-chaanvgae" Sicsr ifpitn iesrherodr,:  irte siosu rcteo://gre/moo dlualtees /tAos yrnecgSihsuttedro wcno.msypsl.emtjiso,n  lcionne d7it27i:o Enr r"oOrS:.F Pihlaes:e  f"lpushrof iIl/eO- beqfueuoree-cdh abnegforee " isp frionfiileBsehed,f oirt eChanigse too "la
-tWARNIeN to rGe:g iaddBsltoecr coker@rmpleseotuion crocne://dgirtei/on "OmSodul.eFsi/lAe: flsyncSuhsuht dIo/O quwn.seyuse.dm jbefos:72r7e: 1p5ro
-fileaddBBleofcokreeChar@rnegseo"ur
-ce://gre/modules/AsynJcaSvhautdowSncript. seyrs.mjsr:o5r: re2s3o:u26
-racde://gdreBlock/emro@drules/esourAcsey:n/cShutd/gre/omwond.uslys.mes/Ajssy,n clSine 7hutd2o7w:n .Esrrorys.m:j sP:h4a5s8e "p:15ro
-fsielteu-bepShfuotrdeo-wcnh@angrees"o uirsc ef:in//igsrhee/dm,o ditu liess /toosof illaet/eo stfoi lree_gaisstyenrc _cformopnlett.ijosnm c:o1n548dit:i2o8n 
-"@OresS.Foiulrec:e f:l//grush eI//mOo dqulesueue/do sbfeifloe/osre pfriolfei_lasyneBecf_ofrreoCnhta.jsnge"m:
-1J5a6v8:16aScri
-pt@ rereror: resosourucrce://gree:///gmroed/umles/odAuslyensc/Sohsutfile.jdsm:1own.2s:y30s.
-m@resjs,o ulricnee: //g727r:e /Emrordourles: P/hTaeslee m"profileet-rbeySftoorrea-gceh.asnysg.em"j si:s1 0fin:28i
-s_hcehde, itck Piesn dtionog Plaintges @troe sregister completioon cuorncdei:t/i/greon /"mOoSd.uFlies/leT:e lfelmuesthr ySI/Oe nqdu.esuyes.md jbse:f8o5r9:e1 7pro
-fsielteuBpe@freorseoCuhracne:g/e/gre/mo"du
-JavaScrilpets /eTerlreomretr:yS erneds.osurceys.m://gre/mojs:7d9u9les/:A1s8yn
-setucShupt@droewsnourc.sey:s/./mgjrse,/ molidnuel e7s2/7T:el Eermreotrr:y SePnhdas.es y"sp.rmojfs:il2e3-7b:e3f0or
-ese-cthuapnTgeel"e meist rfyi/ntihsihse._d,d eilta yiesd Intooi tlTaastke< @treo sroeugricset:e//r cgormep/lmeotdiuleon sc/oTnedlietmetionr y"COoSn.tFriollle: efrlPuasrhent. I/sOy sq.uemujes:82d be4f:o3r6e 
-obsprofeirlveeB@erefsouoreCrhcaen:g/e/gre"
-Ja/vmaoSdcurles/Aipt esryrnocrShutd: reosowunr.csys.mej://grse:/5m7o6:16dules
-/A
-syncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-]]></system-err>
-  </testcase>
-  <testcase name="Verify department sidebar options #2" classname="Retail Home Page" time="5.342">
-    <system-out><![CDATA[
-@test
-Scenario Outline: Verify department sidebar options # features/Home.feature:21
- INFO [main] (HomeSteps.java:24)- User is on homepage
-  Given User is on retail website                   # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
- INFO [main] (HomeSteps.java:32)- User clicked on 'All Section button'
-  When User click on All section                    # tek.dragons.cucumber.steps.HomeSteps.userClickOnAllSection()
-  And User on "Computers"                           # tek.dragons.cucumber.steps.HomeSteps.userOnDepartment(java.lang.String)
- INFO [main] (HomeSteps.java:73)- Accessories is present
-  Then below options are present in department      # tek.dragons.cucumber.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
-    | Accessories | Networking |
-]]></system-out>
-    <system-err><![CDATA[1685576938733	geckodriver	INFO	Listening on 127.0.0.1:10176
-1685576938793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "44719" "--remote ... localhost:44719/,http://[::1]:44719/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileYJNvWl"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576939100	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
-1685576939105	Marionette	INFO	Listening on port 61868
-Read port: 61868
-WebDriver BiDi listening on ws://127.0.0.1:44719
-1685576939221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:44719/devtools/browser/ea6d6edd-fb21-4f1b-8015-6e8122b3c73e
-1685576943202	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:61922
-1685576943205	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576943208	Marionette	INFO	Stopped listening on port 61868
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 14424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+DevTools listening on ws://127.0.0.1:10437/devtools/browser/53b40987-1e54-4cfa-9021-537e9137db0c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1685593465361	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:64783
+1685593465370	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593465379	Marionette	INFO	Stopped listening on port 64724
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 15280, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 Dynamically enable window occlusion 1
 WARNING: A blocker encountered an error while we were waiting.
           Blocker:  Waiting for ping task
@@ -434,59 +335,153 @@ WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
 addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
 addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
 setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
-@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
-@resource://gre/modules/osfile.jsm:12:30
-@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
-_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
-setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
-setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
-setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
-observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
-
-JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
-JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+@rJesourceav:/a/Sgcrrei/pmto deurlreosr/:o srefsioluer/coesf:/i/lger_ea/smyoncdule_sf/rAosnt.jyncShsutmd:o1568w:n1.sys.6m
+@rjess,o lineu rce:7/2/7g:r Erre/moord:u lPehsase/os f"iplreo.filejsm-:b1e2f:o3r0e-
+c@hraensource:g/e/"g ries/ mfoidnuislhesed/,T eilte miestr toyoS tloartagee to. sryesg.imjs:ster 1c0o:m28
+p_letiocnh ecckPeonndditioinngPi n"gOsS.Fil@eres: flush I/O queued before profiloeBurceefore:C/h/agnre/mge"o
+dules/TelemetrySeJavnd.saySsc.rmipt ejs:8r5r9o:r1:7 re
+ssoeutrucpe:@//regsroeu/rmcoedu:l/e/sg/rAesy/nmcodules/TelemetSrySehnud.tsydso.wnm.jsyss:79.mjs,9 :l1i8n
+see 727t:u pE@rresouror: Phrace://gsre "proef/imodullee-sbefor/Teel-ecmhaentge"ryS eisn dfi.nsiyshesd., mijts :237is :to3o0 l
+setate tou rpeTelemgeitster cry/thoimpsl.etion_del acyoenddIitiniotnT a"sOkS<.Fi@rlees:o ufrlce://greu/smh Io/Od uqulees/Teued befloermetrey CprofilontreoBlelfeorreChParaenngte".s
+Jysa.vmajSsc:r8ip2t4: 3e6rr
+oro:b resseorurvcee@:res//gre/omuorce:d/u/legs/Asyre/nmcoSdhuutldoesw/nA.ssyyns.cmSjhust,d olwinne. sy7s2.7m: jErsr:o5r: 7P6ha:s1e6
+ "pro
+file-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #3" classname="Retail Home Page" time="5.228">
+  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="7.072">
+    <error message="Given xpath expression &quot;//button[text() =&apos;Edit&apos;]&apos;]&quot; is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception&#10;Build info: version: &apos;4.8.3&apos;, revision: &apos;e5e76298c3&apos;&#10;System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.4.1&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Command: [a7ab040c-147b-4ea0-be5a-6c019f613eac, findElement {using=xpath, value=//button[text() =&apos;Edit&apos;]&apos;]}]&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:7327, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26188, moz:profile: C:\Users\mials\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:7327/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: a7ab040c-147b-4ea0-be5a-6c019f613eac" type="org.openqa.selenium.InvalidSelectorException"><![CDATA[org.openqa.selenium.InvalidSelectorException: 
+Given xpath expression "//button[text() ='Edit']']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [a7ab040c-147b-4ea0-be5a-6c019f613eac, findElement {using=xpath, value=//button[text() ='Edit']']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:7327, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26188, moz:profile: C:\Users\mials\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:7327/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a7ab040c-147b-4ea0-be5a-6c019f613eac
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:307)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:40)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:293)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:660)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:656)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at tek.dragons.cucumber.utilities.CommonUtility.waitTillClickable(CommonUtility.java:31)
+	at tek.dragons.cucumber.utilities.CommonUtility.click(CommonUtility.java:47)
+	at tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditOptionOfCardSection(RetailAccountSteps.java:92)
+	at ✽.User click on Edit option of card section(classpath:features/RetailAccount.feature:31)
+]]></error>
     <system-out><![CDATA[
-@test
-Scenario Outline: Verify department sidebar options # features/Home.feature:22
+@smoke
+Scenario: Verify User can edit Debit or Credit card                        # features/RetailAccount.feature:29
  INFO [main] (HomeSteps.java:24)- User is on homepage
-  Given User is on retail website                   # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
- INFO [main] (HomeSteps.java:32)- User clicked on 'All Section button'
-  When User click on All section                    # tek.dragons.cucumber.steps.HomeSteps.userClickOnAllSection()
-  And User on "Smart Home"                          # tek.dragons.cucumber.steps.HomeSteps.userOnDepartment(java.lang.String)
- INFO [main] (HomeSteps.java:73)- Smart Home Lightning is present
-  Then below options are present in department      # tek.dragons.cucumber.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
-    | Smart Home Lightning | Plugs and Outlets |
+  Given User is on retail website                                          # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                        # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$'   # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                           # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                                # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                        # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+  And User click on Edit option of card section                            # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditOptionOfCardSection()
+      org.openqa.selenium.InvalidSelectorException: Given xpath expression "//button[text() ='Edit']']" is invalid: SyntaxError: Document.evaluate: The expression is not a legal expression
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [a7ab040c-147b-4ea0-be5a-6c019f613eac, findElement {using=xpath, value=//button[text() ='Edit']']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:7327, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 26188, moz:profile: C:\Users\mials\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:7327/devtool..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a7ab040c-147b-4ea0-be5a-6c019f613eac
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:307)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:40)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:293)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:660)
+	at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:656)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	at tek.dragons.cucumber.utilities.CommonUtility.waitTillClickable(CommonUtility.java:31)
+	at tek.dragons.cucumber.utilities.CommonUtility.click(CommonUtility.java:47)
+	at tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditOptionOfCardSection(RetailAccountSteps.java:92)
+	at âœ½.User click on Edit option of card section(classpath:features/RetailAccount.feature:31)
+
+  And user edit information with below data                                # tek.dragons.cucumber.steps.RetailAccountSteps.userEditInformationWithBelowData(io.cucumber.datatable.DataTable)
+    | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
+    | cardNumber | fullName   | 10              | 2042           | securityCode |
+  And user click on Update Your Card button                                # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnUpdateYourCardButton()
+  Then a message should be displayed â€˜Payment Method updated Successfullyâ€™ # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully()
+
+    Embedding Verify User can edit Debit or Credit card scenario failed [image/png 132939 bytes]
+
 ]]></system-out>
-    <system-err><![CDATA[1685576944100	geckodriver	INFO	Listening on 127.0.0.1:9304
-1685576944153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16543" "--remote ... localhost:16543/,http://[::1]:16543/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileHDlrkk"
+    <system-err><![CDATA[1685593466418	geckodriver	INFO	Listening on 127.0.0.1:12449
+1685593466462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "7327" "--remote- ... //localhost:7327/,http://[::1]:7327/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofile0gsNyx"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576944520	Marionette	INFO	Marionette enabled
+1685593466756	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1685576944525	Marionette	INFO	Listening on port 61930
-WebDriver BiDi listening on ws://127.0.0.1:16543
-Read port: 61930
-1685576944730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685593466760	Marionette	INFO	Listening on port 64788
+Read port: 64788
+WebDriver BiDi listening on ws://127.0.0.1:7327
+1685593466865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:16543/devtools/browser/83a179e9-4e63-42ea-b4f7-ddc8a84fde6c
-1685576948425	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:61984
-1685576948427	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576948431	Marionette	INFO	Stopped listening on port 61930
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 12424, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+DevTools listening on ws://127.0.0.1:7327/devtools/browser/b5160109-cd99-4aa8-a4d4-421903f84fa8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1685593472594	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:64851
+1685593472596	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593472600	Marionette	INFO	Stopped listening on port 64788
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 24372, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 Dynamically enable window occlusion 1
 WARNING: A blocker encountered an error while we were waiting.
           Blocker:  Waiting for ping task
@@ -581,42 +576,52 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #4" classname="Retail Home Page" time="4.967">
+  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="6.897">
     <system-out><![CDATA[
-@test
-Scenario Outline: Verify department sidebar options # features/Home.feature:23
+@smoke
+Scenario: Verify User can remove Debit or Credit card                    # features/RetailAccount.feature:38
  INFO [main] (HomeSteps.java:24)- User is on homepage
-  Given User is on retail website                   # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
- INFO [main] (HomeSteps.java:32)- User clicked on 'All Section button'
-  When User click on All section                    # tek.dragons.cucumber.steps.HomeSteps.userClickOnAllSection()
-  And User on "Sports"                              # tek.dragons.cucumber.steps.HomeSteps.userOnDepartment(java.lang.String)
- INFO [main] (HomeSteps.java:73)- Athletic Clothing is present
-  Then below options are present in department      # tek.dragons.cucumber.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
-    | Athletic Clothing | Exercise & Fitness |
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:140)- User clicked on remove card information
+  And User click on remove option of card section                        # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnRemoveOptionOfCardSection()
+ INFO [main] (RetailAccountSteps.java:146)- Payement details has been removed successfully
+  Then payment details should be removed                                 # tek.dragons.cucumber.steps.RetailAccountSteps.paymentDetailsShouldBeRemoved()
 ]]></system-out>
-    <system-err><![CDATA[1685576949247	geckodriver	INFO	Listening on 127.0.0.1:44547
-1685576949301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "31031" "--remote ... localhost:31031/,http://[::1]:31031/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileQ4LWdp"
+    <system-err><![CDATA[1685593473492	geckodriver	INFO	Listening on 127.0.0.1:14199
+1685593473521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10404" "--remote ... localhost:10404/,http://[::1]:10404/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofilet9oQJY"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576949604	Marionette	INFO	Marionette enabled
+1685593473882	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1685576949608	Marionette	INFO	Listening on port 61989
-Read port: 61989
-WebDriver BiDi listening on ws://127.0.0.1:31031
-1685576949721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685593473886	Marionette	INFO	Listening on port 64856
+WebDriver BiDi listening on ws://127.0.0.1:10404
+Read port: 64856
+1685593474092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:31031/devtools/browser/40dd5d36-358c-4b31-985e-bf643c32cf09
-1685576953350	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:62041
-1685576953353	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576953356	Marionette	INFO	Stopped listening on port 61989
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 13836, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+DevTools listening on ws://127.0.0.1:10404/devtools/browser/6235691e-66b5-4be7-a282-bd9e3803a6a6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1685593479523	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:64914
+1685593479525	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593479528	Marionette	INFO	Stopped listening on port 64856
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4316, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 Dynamically enable window occlusion 1
 WARNING: A blocker encountered an error while we were waiting.
           Blocker:  Waiting for ping task
@@ -711,41 +716,58 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 ]]></system-err>
   </testcase>
-  <testcase name="Verify department sidebar options #5" classname="Retail Home Page" time="5.182">
+  <testcase name="Verify User can add an Address" classname="Retail Account Page" time="8.272">
     <system-out><![CDATA[
-@test
-Scenario Outline: Verify department sidebar options # features/Home.feature:24
+@smoke
+Scenario: Verify User can add an Address                                 # features/RetailAccount.feature:43
  INFO [main] (HomeSteps.java:24)- User is on homepage
-  Given User is on retail website                   # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
- INFO [main] (HomeSteps.java:32)- User clicked on 'All Section button'
-  When User click on All section                    # tek.dragons.cucumber.steps.HomeSteps.userClickOnAllSection()
-  And User on "Automotive"                          # tek.dragons.cucumber.steps.HomeSteps.userOnDepartment(java.lang.String)
-  Then below options are present in department      # tek.dragons.cucumber.steps.HomeSteps.belowOptionsArePresentInDepartment(io.cucumber.datatable.DataTable)
-    | Automative Parts & Accessories | MotorCycle & Powersports |
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:153)- User clicked on add address box
+  And User click on Add address option                                   # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddAddressOption()
+ INFO [main] (RetailAccountSteps.java:178)- User has sucessfully entered information into the address form
+  And user fill new address form with below information                  # tek.dragons.cucumber.steps.RetailAccountSteps.userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName | phoneNumber | streetAddress | apt | city | state | zipCode |
+    | United States | fullName | phone       | streetAddress | apt | city | state | zipCode |
+ INFO [main] (RetailAccountSteps.java:184)- User clicked on address button
+  And User click Add Your Address button                                 # tek.dragons.cucumber.steps.RetailAccountSteps.userClickAddYourAddressButton()
+ INFO [main] (RetailAccountSteps.java:191)- Address has been successfully added
+  Then a message should be displayed â€˜Address Added Successfullyâ€™        # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedAddressAddedSuccessfully()
 ]]></system-out>
-    <system-err><![CDATA[1685576954247	geckodriver	INFO	Listening on 127.0.0.1:46179
-1685576954300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "19648" "--remote ... localhost:19648/,http://[::1]:19648/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileomTTg5"
+    <system-err><![CDATA[1685593480383	geckodriver	INFO	Listening on 127.0.0.1:19902
+1685593480449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "26827" "--remote ... localhost:26827/,http://[::1]:26827/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileUcphlq"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576954595	Marionette	INFO	Marionette enabled
+1685593480875	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1685576954599	Marionette	INFO	Listening on port 62046
-Read port: 62046
-WebDriver BiDi listening on ws://127.0.0.1:19648
-1685576954715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685593480879	Marionette	INFO	Listening on port 64920
+Read port: 64920
+WebDriver BiDi listening on ws://127.0.0.1:26827
+1685593480986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:19648/devtools/browser/bbe6cfc2-7fa2-4f3b-bc64-29cf6fadcfea
-1685576958594	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:62100
-1685576958597	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576958600	Marionette	INFO	Stopped listening on port 62046
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 18356, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+DevTools listening on ws://127.0.0.1:26827/devtools/browser/86e0096c-3f33-4212-a6ed-3aeb6a438ac1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1685593487747	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:64979
+1685593487756	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593487767	Marionette	INFO	Stopped listening on port 64920
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23992, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 Dynamically enable window occlusion 1
 WARNING: A blocker encountered an error while we were waiting.
           Blocker:  Waiting for ping task
@@ -818,31 +840,209 @@ setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
 setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
 observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
 
-WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeJCahvaanScrige"
-WARNIpt eNrGr:o ra:d dBlroecskoeurr@rceseo:urc/e/:g/r/ger/mode/moudulleess//AsyncAsyncSShhuuttdownd.own.ssyyss..mmjs, jls:727i:n15e 727:
- addBlEorcror:k ePrh@aresousre "prcoef:i//gre/le-bemfoodruel-eschange" /iAssy nfciSnhiusthdedown.,s yist. mis tjs:5o2o3 :l2a6te to
-addB lroecgkisterer@re scooumrpcletieo://gre/nm condiotdiules/Aosny "OS.nFciSlhutdowe: flnu.sshys .Imjs:458/:1O5 q
-useetupShutdouedw nb@erfesourore cper:o/f/igrle/meBoedfuolreesC/ohsange"
-file/oJsfaivlaScer_iapsytn ce_frrroorn:t .rjesms:o1urc5e4:8/:/2g8r
-@e/mroedsuoulrecse/:/As/ygnrceS/hmuodtudolwens./soyssf.ilemjs/,o slfiinlee _a727s:y nEcr_rforontr: P.hjassme:1 5"68pro:f1i6le
--@bresoeforuer-cceh:a//ngrge"e /imso dfuiles/nisohsefdi,l ei.tjs ims: 1t2o:o3 0l
-at@er etsoo urreceg:is/t/egrr ec/ommodpluelteiso/Tne lceomndeittryiSotno r"aOSg.eF.islyes:. mfjslu:s1h0 :I2/8O 
-_qcuheeucekdPe nbdeifngPoirnges @prrofiesleBeforeChange"
-JavaScript error: roeusrce:/o/urce:g/r/eg/mrodule/meosd/uTleelsemet/AsryynSceSnhdu.stydosw.nm.jssy:s8.59:mjs1,7 l
-isneet up72@7r:e sEorurroce:r: /P/hgarsee/ mod"pruolfesi/lTee-lbemefore-chaentrgyeSe"nd .is fisys.mjnsi:s7he9d, i9:18t
- siets toou pl@resouartce to er:e//gre/gmistero dcuolems/Telpleetmieotrny Scenondd.istyis.omnj s":237O:S3.0F
-isle: etupTfelluesmh I/Oe try/tqhuiesu.ed be_delayfedoIre prnoiftiTask<l@erBefoerseoCurce:/hang/eg"re
-/JmoadulvaSecsr/iTpelte meertrroyrC:on trreosllerParent.ource://gsys.mjs:824:36
-observe@rree/smooudruclees://gr/eA/smyondcShuulest/dAoswynn.sys.cShutdown.sys.mjs:5m7j6s:16
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
 
-, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 ]]></system-err>
   </testcase>
-  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="6.459">
+  <testcase name="Verify User can edit an Address added on account" classname="Retail Account Page" time="8.606">
     <system-out><![CDATA[
-@smoke @test
+@smoke
+Scenario: Verify User can edit an Address added on account               # features/RetailAccount.feature:52
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:197)- User clicked on edit address button
+  And User click on edit address option                                  # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditAddressOption()
+ INFO [main] (RetailAccountSteps.java:214)- User changed their address information
+  And user fill new address form with new information                    # tek.dragons.cucumber.steps.RetailAccountSteps.userFillNewAddressFormWithNewInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName | phoneNumber | streetAddress | apt | city | state | zipCode |
+    | United States | fullName | phone       | streetAddress | apt | city | state | zipCode |
+ INFO [main] (RetailAccountSteps.java:220)- User clicked on the update address button
+  And User click update Your Address button                              # tek.dragons.cucumber.steps.RetailAccountSteps.userClickUpdateYourAddressButton()
+ INFO [main] (RetailAccountSteps.java:227)- User has successfully updated their address information
+  Then a message should be displayed â€˜Address Updated Successfullyâ€™      # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedAddressUpdatedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[1685593488648	geckodriver	INFO	Listening on 127.0.0.1:28866
+1685593488703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "38712" "--remote ... localhost:38712/,http://[::1]:38712/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofile3NFhIk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685593488999	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685593489004	Marionette	INFO	Listening on port 64984
+Read port: 64984
+WebDriver BiDi listening on ws://127.0.0.1:38712
+1685593489111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:38712/devtools/browser/034bcf07-8390-4588-9721-8ba82d5c7c5f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1685593496345	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:65043
+1685593496353	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593496361	Marionette	INFO	Stopped listening on port 64984
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 17380, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:859:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:799:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:237:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="36.707">
+    <error message="Unable to locate element: //button[. = &apos;Remove&apos;]&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.8.3&apos;, revision: &apos;e5e76298c3&apos;&#10;System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.4.1&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Command: [3737222a-567e-4b7d-b731-67552da7a10d, findElement {using=xpath, value=//button[. = &apos;Remove&apos;]}]&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:37254, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25204, moz:profile: C:\Users\mials\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:37254/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 3737222a-567e-4b7d-b731-67552da7a10d" type="org.openqa.selenium.NoSuchElementException"><![CDATA[org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: //button[. = 'Remove']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [3737222a-567e-4b7d-b731-67552da7a10d, findElement {using=xpath, value=//button[. = 'Remove']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:37254, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25204, moz:profile: C:\Users\mials\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:37254/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3737222a-567e-4b7d-b731-67552da7a10d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)
+	at tek.dragons.cucumber.utilities.CommonUtility.isElementDisplayed(CommonUtility.java:148)
+	at tek.dragons.cucumber.steps.RetailAccountSteps.addressDetailsShouldBeRemoved(RetailAccountSteps.java:239)
+	at ✽.Address details should be removed(classpath:features/RetailAccount.feature:64)
+]]></error>
+    <system-out><![CDATA[
+@smoke
 Scenario: Verify User can remove Address from Account                    # features/RetailAccount.feature:61
  INFO [main] (HomeSteps.java:24)- User is on homepage
   Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
@@ -854,38 +1054,71 @@ Scenario: Verify User can remove Address from Account                    # featu
   And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
  INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
   And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
- INFO [main] (RetailAccountSteps.java:23)- User clicked on account option
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
   When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
- INFO [main] (RetailAccountSteps.java:229)- User clicked on remove address button
+ INFO [main] (RetailAccountSteps.java:234)- User clicked on remove address button
   And User click on remove option of Address section                     # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnRemoveOptionOfAddressSection()
- INFO [main] (RetailAccountSteps.java:234)- Address details has been removed successfully
   Then Address details should be removed                                 # tek.dragons.cucumber.steps.RetailAccountSteps.addressDetailsShouldBeRemoved()
+      org.openqa.selenium.NoSuchElementException: Unable to locate element: //button[. = 'Remove']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [3737222a-567e-4b7d-b731-67552da7a10d, findElement {using=xpath, value=//button[. = 'Remove']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 113.0.2, moz:accessibilityChecks: false, moz:buildID: 20230522134052, moz:debuggerAddress: 127.0.0.1:37254, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 25204, moz:profile: C:\Users\mials\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:37254/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3737222a-567e-4b7d-b731-67552da7a10d
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy26.isDisplayed(Unknown Source)
+	at tek.dragons.cucumber.utilities.CommonUtility.isElementDisplayed(CommonUtility.java:148)
+	at tek.dragons.cucumber.steps.RetailAccountSteps.addressDetailsShouldBeRemoved(RetailAccountSteps.java:239)
+	at âœ½.Address details should be removed(classpath:features/RetailAccount.feature:64)
+
+
+    Embedding Verify User can remove Address from Account scenario failed [image/png 160392 bytes]
+
 ]]></system-out>
-    <system-err><![CDATA[1685576959452	geckodriver	INFO	Listening on 127.0.0.1:20753
-1685576959512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9128" "--remote- ... //localhost:9128/,http://[::1]:9128/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileul1D2g"
+    <system-err><![CDATA[1685593497258	geckodriver	INFO	Listening on 127.0.0.1:5542
+1685593497330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "37254" "--remote ... localhost:37254/,http://[::1]:37254/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofile4PZOIk"
 console.warn: services.settings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1685576959838	Marionette	INFO	Marionette enabled
+1685593497723	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
-1685576959845	Marionette	INFO	Listening on port 62105
-Read port: 62105
-WebDriver BiDi listening on ws://127.0.0.1:9128
-1685576959960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1685593497727	Marionette	INFO	Listening on port 65048
+Read port: 65048
+WebDriver BiDi listening on ws://127.0.0.1:37254
+1685593497833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 [ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
-DevTools listening on ws://127.0.0.1:9128/devtools/browser/701cbd96-7206-4bb9-ab0b-2d1a114ee581
+DevTools listening on ws://127.0.0.1:37254/devtools/browser/8513bd7e-cf48-4e03-96ea-f93e469364a2
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
-1685576964767	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:62163
-1685576964788	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
-1685576964795	Marionette	INFO	Stopped listening on port 62105
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
-[Child 4408, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685593533085	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:65110
+1685593533087	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1685593533090	Marionette	INFO	Stopped listening on port 65048
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 30292, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
 Dynamically enable window occlusion 1
 WARNING: A blocker encountered an error while we were waiting.
           Blocker:  Waiting for ping task

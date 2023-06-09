@@ -39,7 +39,7 @@ Feature: Retail Account Page
     When User click on Account option
     And User click on remove option of card section
     Then payment details should be removed
-@m
+
   Scenario: Verify User can add an Address
     When User click on Account option
     And User click on Add address option
@@ -57,7 +57,7 @@ Feature: Retail Account Page
       | United States | fullName | phone       | streetAddress | apt   | city  | state | zipCode |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
-@test
+
   Scenario: Verify User can remove Address from Account
     When User click on Account option
     And User click on remove option of Address section

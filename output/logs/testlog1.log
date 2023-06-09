@@ -1201,3 +1201,240 @@ Debit Card Ending in .... 9349
 2023-05-31 16:49:24,325 [main] INFO logger_file - User clicked on account option
 2023-05-31 16:49:24,748 [main] INFO logger_file - User clicked on remove address button
 2023-05-31 16:49:24,750 [main] INFO logger_file - Address details has been removed successfully
+2023-05-31 20:13:01,334 [main] INFO logger_file - User is on homepage
+2023-05-31 20:13:01,649 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 20:13:01,795 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-05-31 20:13:06,673 [main] INFO logger_file - User is on homepage
+2023-05-31 20:13:07,032 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 20:13:07,595 [main] INFO logger_file - TV & Video is present
+2023-05-31 20:13:12,451 [main] INFO logger_file - User is on homepage
+2023-05-31 20:13:12,757 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 20:13:13,030 [main] INFO logger_file - Accessories is present
+2023-05-31 20:13:17,737 [main] INFO logger_file - User is on homepage
+2023-05-31 20:13:17,997 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 20:14:17,772 [main] INFO logger_file - User is on homepage
+2023-05-31 20:14:18,093 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:14:18,260 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:16:18,100 [main] INFO logger_file - User is on homepage
+2023-05-31 20:16:18,422 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:16:18,599 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:16:18,849 [main] INFO logger_file - User clicked on login button
+2023-05-31 20:16:19,018 [main] INFO logger_file - User is signed into account
+2023-05-31 20:20:50,617 [main] INFO logger_file - User is on homepage
+2023-05-31 20:20:50,949 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:20:51,148 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:20:51,396 [main] INFO logger_file - User clicked on login button
+2023-05-31 20:20:51,579 [main] INFO logger_file - User is signed into account
+2023-05-31 20:33:55,500 [main] INFO logger_file - User is on homepage
+2023-05-31 20:33:55,831 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:33:56,020 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:33:56,268 [main] INFO logger_file - User clicked on login button
+2023-05-31 20:33:56,482 [main] INFO logger_file - User is signed into account
+2023-05-31 20:35:10,259 [main] INFO logger_file - User is on homepage
+2023-05-31 20:35:10,591 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:35:10,719 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:35:10,966 [main] INFO logger_file - User clicked on login button
+2023-05-31 20:35:11,218 [main] INFO logger_file - User is signed into account
+2023-05-31 20:36:46,748 [main] INFO logger_file - User is on homepage
+2023-05-31 20:36:47,095 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:36:47,286 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:36:47,534 [main] INFO logger_file - User clicked on login button
+2023-05-31 20:36:47,754 [main] INFO logger_file - User is signed into account
+2023-05-31 20:39:44,153 [main] INFO logger_file - User is on homepage
+2023-05-31 20:39:44,509 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 20:39:44,693 [main] INFO logger_file - User entered email and password field
+2023-05-31 20:39:44,945 [main] INFO logger_file - User clicked on login button
+2023-05-31 20:39:45,161 [main] INFO logger_file - User is signed into account
+2023-05-31 21:17:26,069 [main] INFO logger_file - User is on homepage
+2023-05-31 21:17:26,411 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:17:26,652 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:17:26,904 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:17:27,118 [main] INFO logger_file - User is signed into account
+2023-05-31 21:22:39,818 [main] INFO logger_file - User is on homepage
+2023-05-31 21:22:40,141 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:22:40,288 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:22:40,539 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:22:40,691 [main] INFO logger_file - User is signed into account
+2023-05-31 21:23:30,724 [main] INFO logger_file - User is on homepage
+2023-05-31 21:23:31,056 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:23:31,259 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:23:31,512 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:23:31,713 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:14,610 [main] INFO logger_file - User is on homepage
+2023-05-31 21:24:14,943 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:24:15,079 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:24:15,330 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:24:15,543 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:15,848 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:24:16,140 [main] INFO logger_file - User updated name and phone values
+2023-05-31 21:24:16,395 [main] INFO logger_file - User clicked on update button
+2023-05-31 21:24:17,180 [main] INFO logger_file - User information has been updated!
+2023-05-31 21:24:17,181 [main] INFO logger_file - New Name: Ariel Koepp II
+2023-05-31 21:24:17,181 [main] INFO logger_file - New Phone Number: 1-445-538-6184
+2023-05-31 21:24:22,170 [main] INFO logger_file - User is on homepage
+2023-05-31 21:24:22,477 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:24:22,602 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:24:22,849 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:24:23,058 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:23,364 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:24:23,659 [main] INFO logger_file - User clicked on add payment method link
+2023-05-31 21:24:24,477 [main] INFO logger_file - User has filled in their debit/credit information
+2023-05-31 21:24:24,720 [main] INFO logger_file - User clicked on add your card button
+2023-05-31 21:24:25,344 [main] INFO logger_file - User has seccessfully added their payment method
+2023-05-31 21:24:30,149 [main] INFO logger_file - User is on homepage
+2023-05-31 21:24:30,443 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:24:30,618 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:24:30,861 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:24:31,086 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:31,372 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:24:37,317 [main] INFO logger_file - User is on homepage
+2023-05-31 21:24:37,618 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:24:37,754 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:24:38,002 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:24:38,314 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:38,598 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:24:39,460 [main] INFO logger_file - User clicked on remove card information
+2023-05-31 21:24:39,471 [main] INFO logger_file - Payement details has been removed successfully
+2023-05-31 21:24:44,545 [main] INFO logger_file - User is on homepage
+2023-05-31 21:24:44,850 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:24:45,007 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:24:45,251 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:24:45,425 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:45,713 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:24:45,980 [main] INFO logger_file - User clicked on add address box
+2023-05-31 21:24:46,782 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-05-31 21:24:47,070 [main] INFO logger_file - User clicked on address button
+2023-05-31 21:24:47,732 [main] INFO logger_file - Address has been successfully added
+2023-05-31 21:24:52,746 [main] INFO logger_file - User is on homepage
+2023-05-31 21:24:53,040 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:24:53,205 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:24:53,451 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:24:53,655 [main] INFO logger_file - User is signed into account
+2023-05-31 21:24:53,934 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:24:54,466 [main] INFO logger_file - User clicked on edit address button
+2023-05-31 21:24:55,273 [main] INFO logger_file - User changed their address information
+2023-05-31 21:24:55,560 [main] INFO logger_file - User clicked on the update address button
+2023-05-31 21:24:56,328 [main] INFO logger_file - User has successfully updated their address information
+2023-05-31 21:25:01,317 [main] INFO logger_file - User is on homepage
+2023-05-31 21:25:01,612 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:25:01,773 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:25:02,015 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:25:02,232 [main] INFO logger_file - User is signed into account
+2023-05-31 21:25:02,513 [main] INFO logger_file - User clicked on account option
+2023-05-31 21:25:02,918 [main] INFO logger_file - User clicked on remove address button
+2023-05-31 21:41:35,475 [main] INFO logger_file - User is on homepage
+2023-05-31 21:41:35,742 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 21:41:35,840 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-05-31 21:41:40,530 [main] INFO logger_file - User is on homepage
+2023-05-31 21:41:40,895 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 21:41:41,232 [main] INFO logger_file - TV & Video is present
+2023-05-31 21:41:46,002 [main] INFO logger_file - User is on homepage
+2023-05-31 21:41:46,248 [main] INFO logger_file - User clicked on 'All Section button'
+2023-05-31 21:41:46,519 [main] INFO logger_file - Accessories is present
+2023-05-31 21:42:12,324 [main] INFO logger_file - User is on homepage
+2023-05-31 21:42:12,666 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:42:12,852 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:42:13,102 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:42:13,304 [main] INFO logger_file - User is signed into account
+2023-05-31 21:42:13,598 [main] INFO logger_file - User changed department category
+2023-05-31 21:42:13,646 [main] INFO logger_file - User has entered  kasa outdoor smart plug into the search field
+2023-05-31 21:57:33,887 [main] INFO logger_file - User is on homepage
+2023-05-31 21:57:34,227 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:57:34,405 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:57:34,658 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:57:34,863 [main] INFO logger_file - User is signed into account
+2023-05-31 21:57:35,164 [main] INFO logger_file - User changed department category
+2023-05-31 21:57:35,302 [main] INFO logger_file - User has entered  kasa outdoor smart plug into the search field
+2023-05-31 21:57:35,545 [main] INFO logger_file - User clicked on search button
+2023-05-31 21:59:21,606 [main] INFO logger_file - User is on homepage
+2023-05-31 21:59:21,949 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 21:59:22,084 [main] INFO logger_file - User entered email and password field
+2023-05-31 21:59:22,330 [main] INFO logger_file - User clicked on login button
+2023-05-31 21:59:22,524 [main] INFO logger_file - User is signed into account
+2023-05-31 21:59:22,819 [main] INFO logger_file - User changed department category
+2023-05-31 21:59:22,866 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 21:59:23,119 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:00:16,465 [main] INFO logger_file - User is on homepage
+2023-05-31 22:00:16,803 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:00:16,985 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:00:17,236 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:00:17,427 [main] INFO logger_file - User is signed into account
+2023-05-31 22:00:17,719 [main] INFO logger_file - User changed department category
+2023-05-31 22:00:17,774 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:00:23,030 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:01:18,018 [main] INFO logger_file - User is on homepage
+2023-05-31 22:01:18,361 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:01:18,483 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:01:18,730 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:01:18,896 [main] INFO logger_file - User is signed into account
+2023-05-31 22:01:19,185 [main] INFO logger_file - User changed department category
+2023-05-31 22:01:19,235 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:01:24,481 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:02:08,647 [main] INFO logger_file - User is on homepage
+2023-05-31 22:02:08,996 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:02:09,136 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:02:09,386 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:02:09,930 [main] INFO logger_file - User is signed into account
+2023-05-31 22:02:10,238 [main] INFO logger_file - User changed department category
+2023-05-31 22:02:10,353 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:02:15,706 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:03:07,653 [main] INFO logger_file - User is on homepage
+2023-05-31 22:03:07,982 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:03:08,150 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:03:08,402 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:03:08,568 [main] INFO logger_file - User is signed into account
+2023-05-31 22:03:08,861 [main] INFO logger_file - User changed department category
+2023-05-31 22:03:08,912 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:03:19,244 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:09:06,443 [main] INFO logger_file - User is on homepage
+2023-05-31 22:09:06,782 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:09:06,965 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:09:07,213 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:09:07,408 [main] INFO logger_file - User is signed into account
+2023-05-31 22:09:07,700 [main] INFO logger_file - User changed department category
+2023-05-31 22:09:07,747 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:09:18,102 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:09:23,436 [main] INFO logger_file - User clicked on item
+2023-05-31 22:26:25,628 [main] INFO logger_file - User is on homepage
+2023-05-31 22:26:25,964 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:26:26,154 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:26:26,404 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:26:26,602 [main] INFO logger_file - User is signed into account
+2023-05-31 22:26:26,897 [main] INFO logger_file - User changed department category
+2023-05-31 22:26:26,952 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:26:37,291 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:26:42,618 [main] INFO logger_file - User clicked on item
+2023-05-31 22:26:47,992 [main] INFO logger_file - User changed the quantity of the item
+2023-05-31 22:27:55,821 [main] INFO logger_file - User is on homepage
+2023-05-31 22:27:56,159 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:27:56,351 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:27:56,601 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:27:56,813 [main] INFO logger_file - User is signed into account
+2023-05-31 22:27:57,106 [main] INFO logger_file - User changed department category
+2023-05-31 22:27:57,160 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:28:02,421 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:28:07,809 [main] INFO logger_file - User clicked on item
+2023-05-31 22:28:13,100 [main] INFO logger_file - User changed the quantity of the item
+2023-05-31 22:37:55,685 [main] INFO logger_file - User is on homepage
+2023-05-31 22:37:56,019 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:37:56,225 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:37:56,480 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:37:56,884 [main] INFO logger_file - User is signed into account
+2023-05-31 22:37:57,176 [main] INFO logger_file - User changed department category
+2023-05-31 22:37:57,231 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:38:02,497 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:38:02,846 [main] INFO logger_file - User clicked on item
+2023-05-31 22:38:08,218 [main] INFO logger_file - User changed the quantity of the item
+2023-05-31 22:38:08,566 [main] INFO logger_file - User clicked on add to cart button
+2023-05-31 22:39:37,649 [main] INFO logger_file - User is on homepage
+2023-05-31 22:39:37,981 [main] INFO logger_file - User clicked on Sign In option
+2023-05-31 22:39:38,163 [main] INFO logger_file - User entered email and password field
+2023-05-31 22:39:38,413 [main] INFO logger_file - User clicked on login button
+2023-05-31 22:39:38,612 [main] INFO logger_file - User is signed into account
+2023-05-31 22:39:38,908 [main] INFO logger_file - User changed department category
+2023-05-31 22:39:38,992 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-05-31 22:39:39,246 [main] INFO logger_file - User clicked on search button
+2023-05-31 22:39:39,532 [main] INFO logger_file - User clicked on item
+2023-05-31 22:39:39,867 [main] INFO logger_file - User changed the quantity of the item
+2023-05-31 22:39:40,201 [main] INFO logger_file - User clicked on add to cart button
+2023-05-31 22:39:40,340 [main] INFO logger_file - Cart icon quantity has succesfully changed
