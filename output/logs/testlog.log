@@ -1438,3 +1438,74 @@ Debit Card Ending in .... 9349
 2023-05-31 22:39:39,867 - logger_file -INFO - User changed the quantity of the item
 2023-05-31 22:39:40,201 - logger_file -INFO - User clicked on add to cart button
 2023-05-31 22:39:40,340 - logger_file -INFO - Cart icon quantity has succesfully changed
+2023-06-08 21:50:54,717 - logger_file -INFO - User is on homepage
+2023-06-08 21:50:55,709 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 21:50:55,909 - logger_file -INFO - User entered email and password field
+2023-06-08 21:50:56,180 - logger_file -INFO - User clicked on login button
+2023-06-08 21:50:56,330 - logger_file -INFO - User is signed into account
+2023-06-08 21:50:56,967 - logger_file -INFO - User changed department category
+2023-06-08 21:50:57,044 - logger_file -INFO - User has entered kasa outdoor smart plug into the search field
+2023-06-08 21:50:57,428 - logger_file -INFO - User clicked on search button
+2023-06-08 21:50:57,771 - logger_file -INFO - User clicked on item
+2023-06-08 21:50:58,044 - logger_file -INFO - User changed the quantity of the item
+2023-06-08 21:50:58,271 - logger_file -INFO - User clicked on add to cart button
+2023-06-08 21:51:15,145 - logger_file -INFO - User is on homepage
+2023-06-08 21:51:15,427 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 21:51:15,548 - logger_file -INFO - User entered email and password field
+2023-06-08 21:51:15,770 - logger_file -INFO - User clicked on login button
+2023-06-08 21:51:15,934 - logger_file -INFO - User is signed into account
+2023-06-08 21:51:30,119 - logger_file -INFO - User is on homepage
+2023-06-08 21:51:30,425 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 21:51:30,519 - logger_file -INFO - User entered email and password field
+2023-06-08 21:51:30,744 - logger_file -INFO - User clicked on login button
+2023-06-08 21:51:30,934 - logger_file -INFO - User is signed into account
+2023-06-08 21:51:45,737 - logger_file -INFO - User is on homepage
+2023-06-08 21:51:45,984 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 21:51:46,053 - logger_file -INFO - User entered email and password field
+2023-06-08 21:51:46,275 - logger_file -INFO - User clicked on login button
+2023-06-08 21:51:46,406 - logger_file -INFO - User is signed into account
+2023-06-08 21:52:02,396 - logger_file -INFO - User is on homepage
+2023-06-08 21:52:02,673 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 21:52:02,737 - logger_file -INFO - User entered email and password field
+2023-06-08 21:52:02,962 - logger_file -INFO - User clicked on login button
+2023-06-08 21:52:03,097 - logger_file -INFO - User is signed into account
+2023-06-08 22:24:57,238 - logger_file -INFO - User is on homepage
+2023-06-08 22:24:57,584 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 22:24:57,660 - logger_file -INFO - User entered email and password field
+2023-06-08 22:24:57,884 - logger_file -INFO - User clicked on login button
+2023-06-08 22:24:58,022 - logger_file -INFO - User is signed into account
+2023-06-08 22:24:58,263 - logger_file -INFO - User changed department category
+2023-06-08 22:24:58,300 - logger_file -INFO - User has entered kasa outdoor smart plug into the search field
+2023-06-08 22:24:58,520 - logger_file -INFO - User clicked on search button
+2023-06-08 22:24:58,881 - logger_file -INFO - User clicked on item
+2023-06-08 22:25:17,023 - logger_file -INFO - User is on homepage
+2023-06-08 22:25:17,287 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 22:25:17,347 - logger_file -INFO - User entered email and password field
+2023-06-08 22:25:17,573 - logger_file -INFO - User clicked on login button
+2023-06-08 22:25:17,708 - logger_file -INFO - User is signed into account
+2023-06-08 22:25:49,025 - logger_file -INFO - User is on homepage
+2023-06-08 22:25:49,273 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 22:25:49,338 - logger_file -INFO - User entered email and password field
+2023-06-08 22:25:49,561 - logger_file -INFO - User clicked on login button
+2023-06-08 22:25:49,743 - logger_file -INFO - User is signed into account
+2023-06-08 22:26:13,326 - logger_file -INFO - User is on homepage
+2023-06-08 22:26:13,574 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 22:26:13,642 - logger_file -INFO - User entered email and password field
+2023-06-08 22:26:14,203 - logger_file -INFO - User clicked on login button
+2023-06-08 22:26:14,396 - logger_file -INFO - User is signed into account
+2023-06-08 22:26:31,715 - logger_file -INFO - User is on homepage
+2023-06-08 22:26:31,963 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 22:26:32,042 - logger_file -INFO - User entered email and password field
+2023-06-08 22:26:32,265 - logger_file -INFO - User clicked on login button
+2023-06-08 22:26:32,438 - logger_file -INFO - User is signed into account
+2023-06-08 23:19:02,296 - logger_file -INFO - User is on homepage
+2023-06-08 23:19:02,564 - logger_file -INFO - User clicked on Sign In option
+2023-06-08 23:19:02,635 - logger_file -INFO - User entered email and password field
+2023-06-08 23:19:02,877 - logger_file -INFO - User clicked on login button
+2023-06-08 23:19:03,014 - logger_file -INFO - User is signed into account
+2023-06-08 23:19:03,257 - logger_file -INFO - User changed department category
+2023-06-08 23:19:03,281 - logger_file -INFO - User has entered Apex Legends into the search field
+2023-06-08 23:19:03,503 - logger_file -INFO - User clicked on search button
+2023-06-08 23:19:03,857 - logger_file -INFO - User clicked on item
+2023-06-08 23:19:04,286 - logger_file -INFO - User changed the quantity of the item
+2023-06-08 23:19:04,505 - logger_file -INFO - User clicked on add to cart button
