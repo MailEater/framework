@@ -2,14 +2,10 @@ package tek.dragons.cucumber.pages;
 
 import java.util.List;
 
-import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
 import tek.dragons.cucumber.base.BaseSetup;
 
 public class HomePage extends BaseSetup {

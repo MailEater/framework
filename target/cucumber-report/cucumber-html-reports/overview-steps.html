@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.tablesorter.min.js"></script>
+<script src="js/Chart.min.js"></script>
+<script src="js/moment.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/cucumber.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script>
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<title>Cucumber Reports (no 1) - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber Report</p>
+      <ul class="nav navbar-nav navbar-right">
+        <li role="presentation" ><a href="overview-features.html">Features</a></li>
+        <li role="presentation" ><a href="overview-tags.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="overview-steps.html">Steps</a></li>
+        <li role="presentation" ><a href="overview-failures.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="container-fluid">
+  <div class="col-md-5 col-md-offset-1">
+
+<table class="table table-bordered" id="build-info">
+  <thead>
+    <tr>
+      <th>Project</th>
+        <th>Number</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="info">
+      <td>cucumber-jvm-example</td>
+        <td>1</td>
+      <td>15 Jun 2023, 23:16</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+  <div class="col-md-3 col-md-offset-2">
+  </div>
+</div>
+
+
+<div id="report-lead" class="container-fluid">
+  <div class="col-md-10 col-md-offset-1">
+    <h2>Steps Statistics</h2>
+      <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+  </div>
+</div>
+
+<div class="container-fluid" id="report">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <table id="tablesorter" class="stats-table table-hover">
+
+        <thead>
+          <tr class="header">
+            <th>Implementation</th>
+            <th>Occurrences</th>
+            <th>Average duration</th>
+            <th>Max duration</th>
+            <th>Total durations</th>
+            <th>Ratio</th>
+          </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+              <td class="location">tek.dragons.cucumber.base.BaseUITest.closeTests(io.cucumber.java.Scenario)</td>
+              <td>7</td>
+              <td class="duration" data-value="936023685">0.936</td>
+              <td class="duration" data-value="936023685">0.990</td>
+              <td class="duration" data-value="6552165800">6.552</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.base.BaseUITest.setupTests()</td>
+              <td>7</td>
+              <td class="duration" data-value="3323486257">3.323</td>
+              <td class="duration" data-value="3323486257">4.176</td>
+              <td class="duration" data-value="23264403800">23.264</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()</td>
+              <td>7</td>
+              <td class="duration" data-value="143904628">0.143</td>
+              <td class="duration" data-value="143904628">0.213</td>
+              <td class="duration" data-value="1007332400">1.007</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedAddressAddedSuccessfully()</td>
+              <td>1</td>
+              <td class="duration" data-value="668292100">0.668</td>
+              <td class="duration" data-value="668292100">0.668</td>
+              <td class="duration" data-value="668292100">0.668</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedAddressUpdatedSuccessfully()</td>
+              <td>1</td>
+              <td class="duration" data-value="588354300">0.588</td>
+              <td class="duration" data-value="588354300">0.588</td>
+              <td class="duration" data-value="588354300">0.588</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully()</td>
+              <td>1</td>
+              <td class="duration" data-value="741649000">0.741</td>
+              <td class="duration" data-value="741649000">0.741</td>
+              <td class="duration" data-value="741649000">0.741</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully()</td>
+              <td>1</td>
+              <td class="duration" data-value="698394200">0.698</td>
+              <td class="duration" data-value="698394200">0.698</td>
+              <td class="duration" data-value="698394200">0.698</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.addressDetailsShouldBeRemoved()</td>
+              <td>1</td>
+              <td class="duration" data-value="1015100">0.001</td>
+              <td class="duration" data-value="1015100">0.001</td>
+              <td class="duration" data-value="1015100">0.001</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.paymentDetailsShouldBeRemoved()</td>
+              <td>1</td>
+              <td class="duration" data-value="9975700">0.009</td>
+              <td class="duration" data-value="9975700">0.009</td>
+              <td class="duration" data-value="9975700">0.009</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickAddYourAddressButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="300705600">0.300</td>
+              <td class="duration" data-value="300705600">0.300</td>
+              <td class="duration" data-value="300705600">0.300</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()</td>
+              <td>7</td>
+              <td class="duration" data-value="288618328">0.288</td>
+              <td class="duration" data-value="288618328">0.303</td>
+              <td class="duration" data-value="2020328300">2.020</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddAPaymentMethodLink()</td>
+              <td>1</td>
+              <td class="duration" data-value="237385900">0.237</td>
+              <td class="duration" data-value="237385900">0.237</td>
+              <td class="duration" data-value="237385900">0.237</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddAddressOption()</td>
+              <td>1</td>
+              <td class="duration" data-value="250534000">0.250</td>
+              <td class="duration" data-value="250534000">0.250</td>
+              <td class="duration" data-value="250534000">0.250</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddYourCardButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="247943600">0.247</td>
+              <td class="duration" data-value="247943600">0.247</td>
+              <td class="duration" data-value="247943600">0.247</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditAddressOption()</td>
+              <td>1</td>
+              <td class="duration" data-value="579443900">0.579</td>
+              <td class="duration" data-value="579443900">0.579</td>
+              <td class="duration" data-value="579443900">0.579</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditOptionOfCardSection()</td>
+              <td>1</td>
+              <td class="duration" data-value="1454227100">1.454</td>
+              <td class="duration" data-value="1454227100">1.454</td>
+              <td class="duration" data-value="1454227100">1.454</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnRemoveOptionOfAddressSection()</td>
+              <td>1</td>
+              <td class="duration" data-value="456081300">0.456</td>
+              <td class="duration" data-value="456081300">0.456</td>
+              <td class="duration" data-value="456081300">0.456</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnRemoveOptionOfCardSection()</td>
+              <td>1</td>
+              <td class="duration" data-value="693213700">0.693</td>
+              <td class="duration" data-value="693213700">0.693</td>
+              <td class="duration" data-value="693213700">0.693</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnUpdateButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="264046600">0.264</td>
+              <td class="duration" data-value="264046600">0.264</td>
+              <td class="duration" data-value="264046600">0.264</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnUpdateYourCardButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="247300200">0.247</td>
+              <td class="duration" data-value="247300200">0.247</td>
+              <td class="duration" data-value="247300200">0.247</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userClickUpdateYourAddressButton()</td>
+              <td>1</td>
+              <td class="duration" data-value="282624900">0.282</td>
+              <td class="duration" data-value="282624900">0.282</td>
+              <td class="duration" data-value="282624900">0.282</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userEditInformationWithBelowData(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="891477900">0.891</td>
+              <td class="duration" data-value="891477900">0.891</td>
+              <td class="duration" data-value="891477900">0.891</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="831136500">0.831</td>
+              <td class="duration" data-value="831136500">0.831</td>
+              <td class="duration" data-value="831136500">0.831</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="809445400">0.809</td>
+              <td class="duration" data-value="809445400">0.809</td>
+              <td class="duration" data-value="809445400">0.809</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userFillNewAddressFormWithNewInformation(io.cucumber.datatable.DataTable)</td>
+              <td>1</td>
+              <td class="duration" data-value="734085600">0.734</td>
+              <td class="duration" data-value="734085600">0.734</td>
+              <td class="duration" data-value="734085600">0.734</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userProfileInformationShouldBeUpdated()</td>
+              <td>1</td>
+              <td class="duration" data-value="779117800">0.779</td>
+              <td class="duration" data-value="779117800">0.779</td>
+              <td class="duration" data-value="779117800">0.779</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.RetailAccountSteps.userUpdateNameNameValueAndPhonePhoneValue()</td>
+              <td>1</td>
+              <td class="duration" data-value="275380800">0.275</td>
+              <td class="duration" data-value="275380800">0.275</td>
+              <td class="duration" data-value="275380800">0.275</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()</td>
+              <td>7</td>
+              <td class="duration" data-value="242306014">0.242</td>
+              <td class="duration" data-value="242306014">0.247</td>
+              <td class="duration" data-value="1696142100">1.696</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()</td>
+              <td>7</td>
+              <td class="duration" data-value="354244357">0.354</td>
+              <td class="duration" data-value="354244357">0.545</td>
+              <td class="duration" data-value="2479710500">2.479</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)</td>
+              <td>7</td>
+              <td class="duration" data-value="194378257">0.194</td>
+              <td class="duration" data-value="194378257">0.297</td>
+              <td class="duration" data-value="1360647800">1.360</td>
+              <td class="passed">100.00%</td>
+            </tr>
+            <tr>
+              <td class="location">tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()</td>
+              <td>7</td>
+              <td class="duration" data-value="203442057">0.203</td>
+              <td class="duration" data-value="203442057">0.220</td>
+              <td class="duration" data-value="1424094400">1.424</td>
+              <td class="passed">100.00%</td>
+            </tr>
+        </tbody>
+
+        <tfoot class="total">
+          <tr>
+            <td>31</td>
+            <td>79</td>
+            <td class="duration">0.656</td>
+            <td class="duration">23.264</td>
+            <td class="duration">51.846</td>
+            <td>Totals</td>
+          </tr>
+        </tfoot>
+
+      </table>
+    </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>

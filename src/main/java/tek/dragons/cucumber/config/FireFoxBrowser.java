@@ -15,7 +15,7 @@ public class FireFoxBrowser implements Browser {
 		WebDriverManager.firefoxdriver().setup();
 		FirefoxOptions options = new FirefoxOptions();
 		options.addArguments("--headless");
-		WebDriver driver = new FirefoxDriver();
+		WebDriver driver = new FirefoxDriver(options);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 		driver.manage().window().maximize();

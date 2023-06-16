@@ -1509,3 +1509,2058 @@ Debit Card Ending in .... 9349
 2023-06-08 23:19:03,857 [main] INFO logger_file - User clicked on item
 2023-06-08 23:19:04,286 [main] INFO logger_file - User changed the quantity of the item
 2023-06-08 23:19:04,505 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 14:39:40,900 [main] INFO logger_file - User is on homepage
+2023-06-12 14:39:41,230 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 14:39:41,402 [main] INFO logger_file - User entered email and password field
+2023-06-12 14:39:41,650 [main] INFO logger_file - User clicked on login button
+2023-06-12 14:39:41,819 [main] INFO logger_file - User is signed into account
+2023-06-12 14:39:42,115 [main] INFO logger_file - User changed department category
+2023-06-12 14:39:42,156 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 14:39:42,398 [main] INFO logger_file - User clicked on search button
+2023-06-12 14:46:43,592 [main] INFO logger_file - User is on homepage
+2023-06-12 14:46:43,941 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 14:46:44,137 [main] INFO logger_file - User entered email and password field
+2023-06-12 14:46:44,390 [main] INFO logger_file - User clicked on login button
+2023-06-12 14:46:44,588 [main] INFO logger_file - User is signed into account
+2023-06-12 14:46:44,884 [main] INFO logger_file - User changed department category
+2023-06-12 14:46:44,936 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 14:46:45,198 [main] INFO logger_file - User clicked on search button
+2023-06-12 15:00:00,203 [main] INFO logger_file - User is on homepage
+2023-06-12 15:00:00,532 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 15:00:00,717 [main] INFO logger_file - User entered email and password field
+2023-06-12 15:00:00,967 [main] INFO logger_file - User clicked on login button
+2023-06-12 15:00:01,192 [main] INFO logger_file - User is signed into account
+2023-06-12 15:00:01,487 [main] INFO logger_file - User changed department category
+2023-06-12 15:00:01,577 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 15:00:01,834 [main] INFO logger_file - User clicked on search button
+2023-06-12 15:25:56,467 [main] INFO logger_file - User is on homepage
+2023-06-12 15:25:56,822 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 15:25:57,028 [main] INFO logger_file - User entered email and password field
+2023-06-12 15:25:57,284 [main] INFO logger_file - User clicked on login button
+2023-06-12 15:25:57,478 [main] INFO logger_file - User is signed into account
+2023-06-12 15:25:57,784 [main] INFO logger_file - User changed department category
+2023-06-12 15:25:57,844 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 15:25:58,111 [main] INFO logger_file - User clicked on search button
+2023-06-12 15:25:58,463 [main] INFO logger_file - User clicked on item
+2023-06-12 15:25:58,836 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 15:25:59,151 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 15:25:59,309 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-12 15:25:59,610 [main] INFO logger_file - User clicked on cart button
+2023-06-12 15:25:59,930 [main] INFO logger_file - User clicked on Proceed to Checkout button
+2023-06-12 15:26:00,257 [main] INFO logger_file - User clicked on Place Your Order button
+2023-06-12 15:26:00,544 [main] INFO logger_file - Order confirmation is displayed : Order Placed, Thanks
+2023-06-12 15:27:19,945 [main] INFO logger_file - User is on homepage
+2023-06-12 15:27:20,281 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 15:27:20,469 [main] INFO logger_file - User entered email and password field
+2023-06-12 15:27:20,721 [main] INFO logger_file - User clicked on login button
+2023-06-12 15:27:20,941 [main] INFO logger_file - User is signed into account
+2023-06-12 15:27:21,237 [main] INFO logger_file - User changed department category
+2023-06-12 15:27:21,287 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 15:27:21,537 [main] INFO logger_file - User clicked on search button
+2023-06-12 15:27:21,949 [main] INFO logger_file - User clicked on item
+2023-06-12 15:27:22,303 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 15:27:22,625 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 15:27:22,778 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-12 15:27:23,090 [main] INFO logger_file - User clicked on cart button
+2023-06-12 15:27:23,385 [main] INFO logger_file - User clicked on Proceed to Checkout button
+2023-06-12 15:27:23,714 [main] INFO logger_file - User clicked on Place Your Order button
+2023-06-12 15:27:23,994 [main] INFO logger_file - Order confirmation is displayed : Order Placed, Thanks
+2023-06-12 15:29:32,165 [main] INFO logger_file - User is on homepage
+2023-06-12 15:29:32,501 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 15:29:32,695 [main] INFO logger_file - User entered email and password field
+2023-06-12 15:29:32,945 [main] INFO logger_file - User clicked on login button
+2023-06-12 15:29:33,091 [main] INFO logger_file - User is signed into account
+2023-06-12 15:29:33,383 [main] INFO logger_file - User changed department category
+2023-06-12 15:29:33,433 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 15:29:33,684 [main] INFO logger_file - User clicked on search button
+2023-06-12 15:29:33,961 [main] INFO logger_file - User clicked on item
+2023-06-12 15:29:34,303 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 15:29:34,606 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 15:29:34,722 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-12 15:29:34,978 [main] INFO logger_file - User clicked on cart button
+2023-06-12 15:29:35,314 [main] INFO logger_file - User clicked on Proceed to Checkout button
+2023-06-12 15:29:35,645 [main] INFO logger_file - User clicked on Place Your Order button
+2023-06-12 15:29:35,981 [main] INFO logger_file - Order confirmation is displayed : Order Placed, Thanks
+2023-06-12 15:40:56,969 [main] INFO logger_file - User is on homepage
+2023-06-12 15:40:57,340 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 15:40:57,526 [main] INFO logger_file - User entered email and password field
+2023-06-12 15:40:57,777 [main] INFO logger_file - User clicked on login button
+2023-06-12 15:40:58,009 [main] INFO logger_file - User is signed into account
+2023-06-12 15:40:58,268 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:13:33,702 [main] INFO logger_file - User is on homepage
+2023-06-12 16:13:34,044 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:13:34,199 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:13:34,449 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:13:34,657 [main] INFO logger_file - User is signed into account
+2023-06-12 16:13:34,916 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:13:36,587 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:23:18,333 [main] INFO logger_file - User is on homepage
+2023-06-12 16:23:18,663 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:23:18,850 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:23:19,102 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:23:19,302 [main] INFO logger_file - User is signed into account
+2023-06-12 16:23:19,559 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:23:20,983 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:23:21,287 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 16:49:18,874 [main] INFO logger_file - User is on homepage
+2023-06-12 16:49:19,257 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:49:19,424 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:49:19,675 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:49:19,882 [main] INFO logger_file - User is signed into account
+2023-06-12 16:49:20,141 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:49:21,920 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:49:22,235 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 16:50:58,258 [main] INFO logger_file - User is on homepage
+2023-06-12 16:50:58,637 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:50:58,778 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:50:59,026 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:50:59,229 [main] INFO logger_file - User is signed into account
+2023-06-12 16:50:59,490 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:51:00,960 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:51:01,252 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 16:52:04,342 [main] INFO logger_file - User is on homepage
+2023-06-12 16:52:04,692 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:52:04,891 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:52:05,143 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:52:05,335 [main] INFO logger_file - User is signed into account
+2023-06-12 16:52:05,593 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:52:07,149 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:52:07,471 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 16:57:44,395 [main] INFO logger_file - User is on homepage
+2023-06-12 16:57:44,742 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:57:44,935 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:57:45,189 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:57:45,357 [main] INFO logger_file - User is signed into account
+2023-06-12 16:57:45,626 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:57:47,484 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:57:47,809 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 16:59:26,947 [main] INFO logger_file - User is on homepage
+2023-06-12 16:59:27,282 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 16:59:27,467 [main] INFO logger_file - User entered email and password field
+2023-06-12 16:59:27,725 [main] INFO logger_file - User clicked on login button
+2023-06-12 16:59:27,937 [main] INFO logger_file - User is signed into account
+2023-06-12 16:59:28,196 [main] INFO logger_file - User clicked on order button
+2023-06-12 16:59:30,089 [main] INFO logger_file - User is on first order in list
+2023-06-12 16:59:30,411 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 17:44:03,041 [main] INFO logger_file - User is on homepage
+2023-06-12 17:44:03,399 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 17:44:03,531 [main] INFO logger_file - User entered email and password field
+2023-06-12 17:44:03,783 [main] INFO logger_file - User clicked on login button
+2023-06-12 17:44:03,954 [main] INFO logger_file - User is signed into account
+2023-06-12 17:44:04,221 [main] INFO logger_file - User clicked on order button
+2023-06-12 17:45:50,331 [main] INFO logger_file - User is on homepage
+2023-06-12 17:45:50,687 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 17:45:50,839 [main] INFO logger_file - User entered email and password field
+2023-06-12 17:45:51,090 [main] INFO logger_file - User clicked on login button
+2023-06-12 17:45:51,266 [main] INFO logger_file - User is signed into account
+2023-06-12 17:45:51,530 [main] INFO logger_file - User clicked on order button
+2023-06-12 17:46:35,115 [main] INFO logger_file - User is on homepage
+2023-06-12 17:46:35,464 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 17:46:35,649 [main] INFO logger_file - User entered email and password field
+2023-06-12 17:46:35,899 [main] INFO logger_file - User clicked on login button
+2023-06-12 17:46:36,156 [main] INFO logger_file - User is signed into account
+2023-06-12 17:46:36,413 [main] INFO logger_file - User clicked on order button
+2023-06-12 17:47:48,895 [main] INFO logger_file - User is on homepage
+2023-06-12 17:47:49,255 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 17:47:49,454 [main] INFO logger_file - User entered email and password field
+2023-06-12 17:47:49,705 [main] INFO logger_file - User clicked on login button
+2023-06-12 17:47:49,882 [main] INFO logger_file - User is signed into account
+2023-06-12 17:47:50,144 [main] INFO logger_file - User clicked on order button
+2023-06-12 17:47:51,873 [main] INFO logger_file - User is on first order in list
+2023-06-12 17:47:52,176 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 17:47:53,125 [main] INFO logger_file - User clicked on cancel order
+2023-06-12 18:54:45,635 [main] INFO logger_file - User is on homepage
+2023-06-12 18:54:45,991 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 18:54:46,154 [main] INFO logger_file - User entered email and password field
+2023-06-12 18:54:46,410 [main] INFO logger_file - User clicked on login button
+2023-06-12 18:54:46,615 [main] INFO logger_file - User is signed into account
+2023-06-12 18:54:46,876 [main] INFO logger_file - User clicked on order button
+2023-06-12 18:54:48,658 [main] INFO logger_file - User is on first order in list
+2023-06-12 18:54:48,958 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 18:54:50,053 [main] INFO logger_file - User clicked on cancel order
+2023-06-12 18:54:50,165 [main] INFO logger_file - Cancel text successfully displayed to the user
+2023-06-12 19:33:33,068 [main] INFO logger_file - User is on homepage
+2023-06-12 19:33:33,396 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 19:33:33,605 [main] INFO logger_file - User entered email and password field
+2023-06-12 19:33:33,858 [main] INFO logger_file - User clicked on login button
+2023-06-12 19:33:34,065 [main] INFO logger_file - User is signed into account
+2023-06-12 19:33:34,323 [main] INFO logger_file - User clicked on order button
+2023-06-12 19:33:36,413 [main] INFO logger_file - User is on first order in list
+2023-06-12 19:33:36,726 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 19:33:37,780 [main] INFO logger_file - User clicked on cancel order
+2023-06-12 19:33:37,872 [main] INFO logger_file - Cancel text successfully displayed to the user
+2023-06-12 19:47:40,214 [main] INFO logger_file - User is on homepage
+2023-06-12 19:47:40,557 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 19:47:40,711 [main] INFO logger_file - User entered email and password field
+2023-06-12 19:47:40,961 [main] INFO logger_file - User clicked on login button
+2023-06-12 19:47:41,197 [main] INFO logger_file - User is signed into account
+2023-06-12 19:47:41,462 [main] INFO logger_file - User clicked on order button
+2023-06-12 19:47:43,491 [main] INFO logger_file - User is on first order in list
+2023-06-12 19:47:43,741 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 19:47:44,744 [main] INFO logger_file - User clicked on cancel order
+2023-06-12 19:47:44,854 [main] INFO logger_file - Cancel text successfully displayed to the user
+2023-06-12 20:50:19,185 [main] INFO logger_file - User is on homepage
+2023-06-12 20:50:19,532 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 20:50:19,693 [main] INFO logger_file - User entered email and password field
+2023-06-12 20:50:19,942 [main] INFO logger_file - User clicked on login button
+2023-06-12 20:50:20,191 [main] INFO logger_file - User is signed into account
+2023-06-12 20:50:20,451 [main] INFO logger_file - User clicked on order button
+2023-06-12 20:50:22,270 [main] INFO logger_file - User is on first order in list
+2023-06-12 20:50:22,597 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 20:50:23,630 [main] INFO logger_file - User clicked on cancel order
+2023-06-12 20:50:23,851 [main] INFO logger_file - Cancel text successfully displayed to the user
+2023-06-12 20:50:58,873 [main] INFO logger_file - User is on homepage
+2023-06-12 20:50:59,197 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 20:50:59,393 [main] INFO logger_file - User entered email and password field
+2023-06-12 20:50:59,643 [main] INFO logger_file - User clicked on login button
+2023-06-12 20:50:59,823 [main] INFO logger_file - User is signed into account
+2023-06-12 20:51:00,084 [main] INFO logger_file - User clicked on order button
+2023-06-12 20:51:01,947 [main] INFO logger_file - User is on first order in list
+2023-06-12 20:51:02,203 [main] INFO logger_file - User clicked on return button
+2023-06-12 20:56:38,118 [main] INFO logger_file - User is on homepage
+2023-06-12 20:56:38,465 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 20:56:38,628 [main] INFO logger_file - User entered email and password field
+2023-06-12 20:56:38,879 [main] INFO logger_file - User clicked on login button
+2023-06-12 20:56:39,026 [main] INFO logger_file - User is signed into account
+2023-06-12 20:56:39,288 [main] INFO logger_file - User clicked on order button
+2023-06-12 20:56:41,130 [main] INFO logger_file - User is on first order in list
+2023-06-12 20:56:41,461 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:35:30,432 [main] INFO logger_file - User is on homepage
+2023-06-12 21:35:30,782 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:35:30,978 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:35:31,233 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:35:31,728 [main] INFO logger_file - User is signed into account
+2023-06-12 21:35:31,988 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:35:33,430 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:35:33,752 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:38:32,467 [main] INFO logger_file - User is on homepage
+2023-06-12 21:38:32,807 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:38:33,093 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:38:33,343 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:38:33,540 [main] INFO logger_file - User is signed into account
+2023-06-12 21:38:33,805 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:38:35,849 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:38:36,146 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:39:24,517 [main] INFO logger_file - User is on homepage
+2023-06-12 21:39:24,843 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:39:25,026 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:39:25,274 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:39:25,468 [main] INFO logger_file - User is signed into account
+2023-06-12 21:39:25,731 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:39:27,788 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:39:28,085 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:48:52,933 [main] INFO logger_file - User is on homepage
+2023-06-12 21:48:53,256 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:48:53,454 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:48:53,708 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:48:53,943 [main] INFO logger_file - User is signed into account
+2023-06-12 21:48:54,203 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:48:55,976 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:48:56,290 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:50:09,260 [main] INFO logger_file - User is on homepage
+2023-06-12 21:50:09,601 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:50:09,790 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:50:10,043 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:50:10,247 [main] INFO logger_file - User is signed into account
+2023-06-12 21:50:10,520 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:50:12,324 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:50:12,664 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:51:21,132 [main] INFO logger_file - User is on homepage
+2023-06-12 21:51:21,468 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:51:21,666 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:51:21,917 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:51:22,115 [main] INFO logger_file - User is signed into account
+2023-06-12 21:51:22,372 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:51:24,371 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:51:24,682 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:52:44,316 [main] INFO logger_file - User is on homepage
+2023-06-12 21:52:44,654 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:52:44,818 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:52:45,073 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:52:45,265 [main] INFO logger_file - User is signed into account
+2023-06-12 21:52:45,527 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:52:47,374 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:52:47,628 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:52:48,205 [main] INFO logger_file - User clicked on damage option
+2023-06-12 21:52:48,883 [main] INFO logger_file - User selected option for return service
+2023-06-12 21:56:08,929 [main] INFO logger_file - User is on homepage
+2023-06-12 21:56:09,262 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:56:09,456 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:56:09,705 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:56:09,905 [main] INFO logger_file - User is signed into account
+2023-06-12 21:56:10,201 [main] INFO logger_file - User changed department category
+2023-06-12 21:56:10,338 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-06-12 21:56:10,580 [main] INFO logger_file - User clicked on search button
+2023-06-12 21:56:10,919 [main] INFO logger_file - User clicked on item
+2023-06-12 21:56:11,265 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 21:56:11,571 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 21:56:16,891 [main] INFO logger_file - User is on homepage
+2023-06-12 21:56:17,213 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:56:17,406 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:56:17,654 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:56:17,859 [main] INFO logger_file - User is signed into account
+2023-06-12 21:56:18,144 [main] INFO logger_file - User changed department category
+2023-06-12 21:56:18,250 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 21:56:18,496 [main] INFO logger_file - User clicked on search button
+2023-06-12 21:56:18,761 [main] INFO logger_file - User clicked on item
+2023-06-12 21:56:19,116 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 21:56:19,466 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 21:56:42,228 [main] INFO logger_file - User is on homepage
+2023-06-12 21:56:42,562 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 21:56:42,758 [main] INFO logger_file - User entered email and password field
+2023-06-12 21:56:43,008 [main] INFO logger_file - User clicked on login button
+2023-06-12 21:56:43,264 [main] INFO logger_file - User is signed into account
+2023-06-12 21:56:43,527 [main] INFO logger_file - User clicked on order button
+2023-06-12 21:56:45,335 [main] INFO logger_file - User is on first order in list
+2023-06-12 21:56:45,666 [main] INFO logger_file - User clicked on return button
+2023-06-12 21:56:46,327 [main] INFO logger_file - User clicked on damage option
+2023-06-12 21:56:47,036 [main] INFO logger_file - User selected option for return service
+2023-06-12 21:56:47,301 [main] INFO logger_file - User clicked on return button
+2023-06-12 22:02:58,272 [main] INFO logger_file - User is on homepage
+2023-06-12 22:02:58,616 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:02:58,812 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:02:59,063 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:02:59,287 [main] INFO logger_file - User is signed into account
+2023-06-12 22:02:59,555 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:03:18,630 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:03:18,893 [main] INFO logger_file - User clicked on return button
+2023-06-12 22:03:19,478 [main] INFO logger_file - User clicked on damage option
+2023-06-12 22:03:20,071 [main] INFO logger_file - User selected option for return service
+2023-06-12 22:03:20,342 [main] INFO logger_file - User clicked on return button
+2023-06-12 22:03:20,388 [main] INFO logger_file - Return message is displayed to the user
+2023-06-12 22:04:13,187 [main] INFO logger_file - User is on homepage
+2023-06-12 22:04:13,513 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:04:13,655 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:04:13,908 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:04:14,160 [main] INFO logger_file - User is signed into account
+2023-06-12 22:04:14,457 [main] INFO logger_file - User changed department category
+2023-06-12 22:04:14,502 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 22:04:14,771 [main] INFO logger_file - User clicked on search button
+2023-06-12 22:04:15,176 [main] INFO logger_file - User clicked on item
+2023-06-12 22:04:15,497 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 22:04:15,814 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 22:05:39,927 [main] INFO logger_file - User is on homepage
+2023-06-12 22:05:40,271 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:05:40,474 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:05:40,723 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:05:40,958 [main] INFO logger_file - User is signed into account
+2023-06-12 22:05:41,257 [main] INFO logger_file - User changed department category
+2023-06-12 22:05:41,298 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 22:05:41,559 [main] INFO logger_file - User clicked on search button
+2023-06-12 22:05:41,945 [main] INFO logger_file - User clicked on item
+2023-06-12 22:05:42,303 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 22:05:42,658 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 22:05:42,782 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-12 22:05:43,065 [main] INFO logger_file - User clicked on cart button
+2023-06-12 22:05:43,399 [main] INFO logger_file - User clicked on Proceed to Checkout button
+2023-06-12 22:05:43,740 [main] INFO logger_file - User clicked on Place Your Order button
+2023-06-12 22:05:44,047 [main] INFO logger_file - Order confirmation is displayed : Order Placed, Thanks
+2023-06-12 22:08:36,141 [main] INFO logger_file - User is on homepage
+2023-06-12 22:08:36,468 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:08:36,666 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:08:36,918 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:08:37,067 [main] INFO logger_file - User is signed into account
+2023-06-12 22:08:37,324 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:08:38,621 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:11:14,140 [main] INFO logger_file - User is on homepage
+2023-06-12 22:11:14,468 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:11:14,657 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:11:14,906 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:11:15,095 [main] INFO logger_file - User is signed into account
+2023-06-12 22:11:15,384 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:11:16,769 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:11:17,090 [main] INFO logger_file - User clicked on review button
+2023-06-12 22:19:01,134 [main] INFO logger_file - User is on homepage
+2023-06-12 22:19:01,474 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:19:01,673 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:19:01,924 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:19:02,134 [main] INFO logger_file - User is signed into account
+2023-06-12 22:19:02,393 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:19:04,257 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:19:04,573 [main] INFO logger_file - User clicked on review button
+2023-06-12 22:21:36,567 [main] INFO logger_file - User is on homepage
+2023-06-12 22:21:36,895 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:21:37,024 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:21:37,272 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:21:37,461 [main] INFO logger_file - User is signed into account
+2023-06-12 22:21:37,722 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:21:39,312 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:21:39,612 [main] INFO logger_file - User clicked on review button
+2023-06-12 22:21:39,828 [main] INFO logger_file - User wrote a review on the item
+2023-06-12 22:28:08,152 [main] INFO logger_file - User is on homepage
+2023-06-12 22:28:08,495 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:28:08,692 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:28:08,944 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:28:09,120 [main] INFO logger_file - User is signed into account
+2023-06-12 22:28:09,379 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:28:10,976 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:28:11,299 [main] INFO logger_file - User clicked on review button
+2023-06-12 22:28:11,499 [main] INFO logger_file - User wrote a review on the item
+2023-06-12 22:28:11,814 [main] INFO logger_file - User clicked on add review button
+2023-06-12 22:28:12,481 [main] INFO logger_file - Review was successfully added
+2023-06-12 22:31:42,894 [main] INFO logger_file - User is on homepage
+2023-06-12 22:31:43,203 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-12 22:31:43,347 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-06-12 22:31:48,595 [main] INFO logger_file - User is on homepage
+2023-06-12 22:31:48,854 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-12 22:31:49,140 [main] INFO logger_file - TV & Video is present
+2023-06-12 22:31:54,183 [main] INFO logger_file - User is on homepage
+2023-06-12 22:31:54,531 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-12 22:31:54,806 [main] INFO logger_file - Accessories is present
+2023-06-12 22:31:59,799 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:00,119 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-12 22:32:00,398 [main] INFO logger_file - Smart Home Lightning is present
+2023-06-12 22:32:05,522 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:05,798 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-12 22:32:06,135 [main] INFO logger_file - Athletic Clothing is present
+2023-06-12 22:32:11,305 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:11,639 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-12 22:32:16,902 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:17,202 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:32:17,391 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:32:17,641 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:32:17,846 [main] INFO logger_file - User is signed into account
+2023-06-12 22:32:18,135 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:32:18,383 [main] INFO logger_file - User updated name and phone values
+2023-06-12 22:32:18,634 [main] INFO logger_file - User clicked on update button
+2023-06-12 22:32:19,411 [main] INFO logger_file - User information has been updated!
+2023-06-12 22:32:19,411 [main] INFO logger_file - New Name: Miss Doyle West
+2023-06-12 22:32:19,411 [main] INFO logger_file - New Phone Number: 297-746-7244
+2023-06-12 22:32:24,692 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:24,987 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:32:25,168 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:32:25,412 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:32:25,602 [main] INFO logger_file - User is signed into account
+2023-06-12 22:32:25,890 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:32:26,123 [main] INFO logger_file - User clicked on add payment method link
+2023-06-12 22:32:26,893 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-12 22:32:27,192 [main] INFO logger_file - User clicked on add your card button
+2023-06-12 22:32:27,989 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-12 22:32:33,197 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:33,516 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:32:33,683 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:32:33,924 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:32:34,092 [main] INFO logger_file - User is signed into account
+2023-06-12 22:32:34,386 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:32:40,897 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:41,203 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:32:41,376 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:32:41,619 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:32:41,860 [main] INFO logger_file - User is signed into account
+2023-06-12 22:32:42,184 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:32:42,991 [main] INFO logger_file - User clicked on remove card information
+2023-06-12 22:32:48,355 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:48,652 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:32:48,786 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:32:49,030 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:32:49,244 [main] INFO logger_file - User is signed into account
+2023-06-12 22:32:49,538 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:32:49,789 [main] INFO logger_file - User clicked on add address box
+2023-06-12 22:32:50,545 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-12 22:32:50,822 [main] INFO logger_file - User clicked on address button
+2023-06-12 22:32:51,465 [main] INFO logger_file - Address has been successfully added
+2023-06-12 22:32:56,761 [main] INFO logger_file - User is on homepage
+2023-06-12 22:32:57,057 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:32:57,240 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:32:57,481 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:32:57,700 [main] INFO logger_file - User is signed into account
+2023-06-12 22:32:57,987 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:32:58,410 [main] INFO logger_file - User clicked on edit address button
+2023-06-12 22:32:59,215 [main] INFO logger_file - User changed their address information
+2023-06-12 22:32:59,514 [main] INFO logger_file - User clicked on the update address button
+2023-06-12 22:33:00,223 [main] INFO logger_file - User has successfully updated their address information
+2023-06-12 22:33:05,172 [main] INFO logger_file - User is on homepage
+2023-06-12 22:33:05,478 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:33:05,681 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:33:05,922 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:33:06,140 [main] INFO logger_file - User is signed into account
+2023-06-12 22:33:06,422 [main] INFO logger_file - User clicked on account option
+2023-06-12 22:33:06,895 [main] INFO logger_file - User clicked on remove address button
+2023-06-12 22:33:12,057 [main] INFO logger_file - User is on homepage
+2023-06-12 22:33:12,345 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:33:12,511 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:33:12,753 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:33:12,989 [main] INFO logger_file - User is signed into account
+2023-06-12 22:33:13,256 [main] INFO logger_file - User changed department category
+2023-06-12 22:33:13,308 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-06-12 22:33:13,546 [main] INFO logger_file - User clicked on search button
+2023-06-12 22:33:13,840 [main] INFO logger_file - User clicked on item
+2023-06-12 22:33:14,159 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 22:33:14,490 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 22:33:14,630 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-12 22:33:19,807 [main] INFO logger_file - User is on homepage
+2023-06-12 22:33:20,101 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:33:20,218 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:33:20,456 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:33:20,659 [main] INFO logger_file - User is signed into account
+2023-06-12 22:33:20,924 [main] INFO logger_file - User changed department category
+2023-06-12 22:33:20,959 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-12 22:33:21,196 [main] INFO logger_file - User clicked on search button
+2023-06-12 22:33:21,459 [main] INFO logger_file - User clicked on item
+2023-06-12 22:33:21,771 [main] INFO logger_file - User changed the quantity of the item
+2023-06-12 22:33:22,004 [main] INFO logger_file - User clicked on add to cart button
+2023-06-12 22:33:27,385 [main] INFO logger_file - User is on homepage
+2023-06-12 22:33:27,680 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:33:27,823 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:33:28,062 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:33:28,218 [main] INFO logger_file - User is signed into account
+2023-06-12 22:33:28,459 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:33:29,918 [main] INFO logger_file - User is on first order in list
+2023-06-12 22:33:30,218 [main] INFO logger_file - User clicked on cancel button
+2023-06-12 22:33:30,846 [main] INFO logger_file - User clicked on cancellation reason
+2023-06-12 22:33:31,143 [main] INFO logger_file - User clicked on cancel order
+2023-06-12 22:33:31,233 [main] INFO logger_file - Cancel text successfully displayed to the user
+2023-06-12 22:33:36,299 [main] INFO logger_file - User is on homepage
+2023-06-12 22:33:36,596 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:33:36,757 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:33:36,998 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:33:37,184 [main] INFO logger_file - User is signed into account
+2023-06-12 22:33:37,429 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:34:03,465 [main] INFO logger_file - User is on homepage
+2023-06-12 22:34:03,753 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:34:03,871 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:34:04,116 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:34:04,315 [main] INFO logger_file - User is signed into account
+2023-06-12 22:34:04,564 [main] INFO logger_file - User clicked on order button
+2023-06-12 22:34:15,432 [main] INFO logger_file - User is on homepage
+2023-06-12 22:34:15,719 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:34:15,853 [main] INFO logger_file - User entered email and password field
+2023-06-12 22:34:16,094 [main] INFO logger_file - User clicked on login button
+2023-06-12 22:34:16,259 [main] INFO logger_file - User is signed into account
+2023-06-12 22:34:21,590 [main] INFO logger_file - User is on homepage
+2023-06-12 22:34:21,876 [main] INFO logger_file - User clicked on Sign In option
+2023-06-12 22:34:22,184 [main] INFO logger_file - User clicked on create new account button
+2023-06-12 22:34:22,481 [main] INFO logger_file - User entered Name : Email : Password : Confirm Password
+2023-06-12 22:34:22,723 [main] INFO logger_file - User clicked on sign up button
+2023-06-12 22:34:23,575 [main] INFO logger_file - User is logged into account page
+2023-06-13 15:08:15,465 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:15,731 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:08:15,831 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-06-13 15:08:21,025 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:21,301 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:08:21,591 [main] INFO logger_file - TV & Video is present
+2023-06-13 15:08:26,919 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:27,182 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:08:27,531 [main] INFO logger_file - Accessories is present
+2023-06-13 15:08:33,222 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:33,490 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:08:33,763 [main] INFO logger_file - Smart Home Lightning is present
+2023-06-13 15:08:38,709 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:38,960 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:08:39,295 [main] INFO logger_file - Athletic Clothing is present
+2023-06-13 15:08:44,423 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:44,748 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:08:49,948 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:50,257 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:08:50,523 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:08:50,764 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:08:50,942 [main] INFO logger_file - User is signed into account
+2023-06-13 15:08:51,238 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:08:51,515 [main] INFO logger_file - User updated name and phone values
+2023-06-13 15:08:51,763 [main] INFO logger_file - User clicked on update button
+2023-06-13 15:08:52,488 [main] INFO logger_file - User information has been updated!
+2023-06-13 15:08:52,488 [main] INFO logger_file - New Name: Nichol Lakin
+2023-06-13 15:08:52,489 [main] INFO logger_file - New Phone Number: 721.447.9103
+2023-06-13 15:08:57,716 [main] INFO logger_file - User is on homepage
+2023-06-13 15:08:58,012 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:08:58,190 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:08:58,436 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:08:58,598 [main] INFO logger_file - User is signed into account
+2023-06-13 15:08:58,884 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:08:59,172 [main] INFO logger_file - User clicked on add payment method link
+2023-06-13 15:08:59,955 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-13 15:09:00,198 [main] INFO logger_file - User clicked on add your card button
+2023-06-13 15:09:00,996 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-13 15:09:05,844 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:06,168 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:06,319 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:06,562 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:06,781 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:07,068 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:09:13,492 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:13,807 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:13,975 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:14,218 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:14,581 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:14,864 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:09:15,844 [main] INFO logger_file - User clicked on remove card information
+2023-06-13 15:09:15,854 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-13 15:09:21,074 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:21,391 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:21,576 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:21,821 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:22,019 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:22,304 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:09:22,555 [main] INFO logger_file - User clicked on add address box
+2023-06-13 15:09:23,366 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-13 15:09:23,647 [main] INFO logger_file - User clicked on address button
+2023-06-13 15:09:24,292 [main] INFO logger_file - Address has been successfully added
+2023-06-13 15:09:29,330 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:29,626 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:29,814 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:30,056 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:30,242 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:30,523 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:09:31,084 [main] INFO logger_file - User clicked on edit address button
+2023-06-13 15:09:31,868 [main] INFO logger_file - User changed their address information
+2023-06-13 15:09:32,156 [main] INFO logger_file - User clicked on the update address button
+2023-06-13 15:09:32,850 [main] INFO logger_file - User has successfully updated their address information
+2023-06-13 15:09:38,526 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:38,820 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:38,949 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:39,194 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:39,420 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:39,735 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:09:40,093 [main] INFO logger_file - User clicked on remove address button
+2023-06-13 15:09:45,179 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:45,489 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:45,702 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:45,941 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:46,135 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:46,398 [main] INFO logger_file - User changed department category
+2023-06-13 15:09:46,445 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-06-13 15:09:46,681 [main] INFO logger_file - User clicked on search button
+2023-06-13 15:09:46,991 [main] INFO logger_file - User clicked on item
+2023-06-13 15:09:47,231 [main] INFO logger_file - User changed the quantity of the item
+2023-06-13 15:09:47,512 [main] INFO logger_file - User clicked on add to cart button
+2023-06-13 15:09:47,637 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-13 15:09:52,797 [main] INFO logger_file - User is on homepage
+2023-06-13 15:09:53,108 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:09:53,280 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:09:53,521 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:09:53,795 [main] INFO logger_file - User is signed into account
+2023-06-13 15:09:54,060 [main] INFO logger_file - User changed department category
+2023-06-13 15:09:54,144 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-13 15:09:54,384 [main] INFO logger_file - User clicked on search button
+2023-06-13 15:09:54,772 [main] INFO logger_file - User clicked on item
+2023-06-13 15:09:55,121 [main] INFO logger_file - User changed the quantity of the item
+2023-06-13 15:09:55,452 [main] INFO logger_file - User clicked on add to cart button
+2023-06-13 15:10:00,910 [main] INFO logger_file - User is on homepage
+2023-06-13 15:10:01,223 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:10:01,343 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:10:01,582 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:10:01,817 [main] INFO logger_file - User is signed into account
+2023-06-13 15:10:02,059 [main] INFO logger_file - User clicked on order button
+2023-06-13 15:10:28,977 [main] INFO logger_file - User is on homepage
+2023-06-13 15:10:29,266 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:10:29,425 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:10:29,664 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:10:30,262 [main] INFO logger_file - User is signed into account
+2023-06-13 15:10:30,510 [main] INFO logger_file - User clicked on order button
+2023-06-13 15:10:40,250 [main] INFO logger_file - User is on homepage
+2023-06-13 15:10:40,544 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:10:40,720 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:10:40,960 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:10:41,318 [main] INFO logger_file - User is signed into account
+2023-06-13 15:10:41,566 [main] INFO logger_file - User clicked on order button
+2023-06-13 15:10:51,406 [main] INFO logger_file - User is on homepage
+2023-06-13 15:10:51,695 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:10:51,866 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:10:52,109 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:10:52,337 [main] INFO logger_file - User is signed into account
+2023-06-13 15:10:57,718 [main] INFO logger_file - User is on homepage
+2023-06-13 15:10:58,020 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:10:58,345 [main] INFO logger_file - User clicked on create new account button
+2023-06-13 15:10:58,624 [main] INFO logger_file - User entered Name : Email : Password : Confirm Password
+2023-06-13 15:10:58,866 [main] INFO logger_file - User clicked on sign up button
+2023-06-13 15:10:59,688 [main] INFO logger_file - User is logged into account page
+2023-06-13 15:16:45,652 [main] INFO logger_file - User is on homepage
+2023-06-13 15:16:45,974 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:16:46,188 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-06-13 15:16:51,166 [main] INFO logger_file - User is on homepage
+2023-06-13 15:16:51,505 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:16:51,790 [main] INFO logger_file - TV & Video is present
+2023-06-13 15:16:57,485 [main] INFO logger_file - User is on homepage
+2023-06-13 15:16:57,751 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:16:58,027 [main] INFO logger_file - Accessories is present
+2023-06-13 15:17:02,958 [main] INFO logger_file - User is on homepage
+2023-06-13 15:17:03,279 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:17:03,557 [main] INFO logger_file - Smart Home Lightning is present
+2023-06-13 15:17:09,189 [main] INFO logger_file - User is on homepage
+2023-06-13 15:17:09,495 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:17:10,013 [main] INFO logger_file - Athletic Clothing is present
+2023-06-13 15:17:15,217 [main] INFO logger_file - User is on homepage
+2023-06-13 15:17:15,497 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:17:20,955 [main] INFO logger_file - User is on homepage
+2023-06-13 15:17:21,263 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:17:21,433 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:17:21,679 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:17:22,011 [main] INFO logger_file - User is signed into account
+2023-06-13 15:17:22,305 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:17:22,547 [main] INFO logger_file - User updated name and phone values
+2023-06-13 15:17:22,801 [main] INFO logger_file - User clicked on update button
+2023-06-13 15:17:23,521 [main] INFO logger_file - User information has been updated!
+2023-06-13 15:17:23,521 [main] INFO logger_file - New Name: Jed Littel
+2023-06-13 15:17:23,522 [main] INFO logger_file - New Phone Number: 169.032.9783
+2023-06-13 15:17:29,124 [main] INFO logger_file - User is on homepage
+2023-06-13 15:17:29,419 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:17:29,600 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:17:29,846 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:17:30,061 [main] INFO logger_file - User is signed into account
+2023-06-13 15:17:30,348 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:17:30,580 [main] INFO logger_file - User clicked on add payment method link
+2023-06-13 15:17:31,340 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-13 15:17:31,584 [main] INFO logger_file - User clicked on add your card button
+2023-06-13 15:17:32,280 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-13 15:17:37,715 [main] INFO logger_file - User is on homepage
+2023-06-13 15:17:38,040 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:17:38,212 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:17:38,455 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:17:38,643 [main] INFO logger_file - User is signed into account
+2023-06-13 15:17:38,926 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:17:40,419 [main] INFO logger_file - User is on the card edit section
+2023-06-13 15:17:41,304 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-13 15:17:41,556 [main] INFO logger_file - User has clicked on update your card button
+2023-06-13 15:17:56,557 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:14,443 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:14,701 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:18:14,801 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-06-13 15:18:19,830 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:20,081 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:18:20,365 [main] INFO logger_file - TV & Video is present
+2023-06-13 15:18:25,743 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:26,083 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:18:26,354 [main] INFO logger_file - Accessories is present
+2023-06-13 15:18:31,330 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:31,690 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:18:32,066 [main] INFO logger_file - Smart Home Lightning is present
+2023-06-13 15:18:37,215 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:37,507 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:18:37,857 [main] INFO logger_file - Athletic Clothing is present
+2023-06-13 15:18:43,244 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:43,492 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-13 15:18:49,190 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:49,490 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:18:49,658 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:18:49,905 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:18:50,077 [main] INFO logger_file - User is signed into account
+2023-06-13 15:18:50,363 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:18:50,620 [main] INFO logger_file - User updated name and phone values
+2023-06-13 15:18:50,881 [main] INFO logger_file - User clicked on update button
+2023-06-13 15:18:51,585 [main] INFO logger_file - User information has been updated!
+2023-06-13 15:18:51,585 [main] INFO logger_file - New Name: Ms Chas Nikolaus
+2023-06-13 15:18:51,585 [main] INFO logger_file - New Phone Number: 756-097-3544
+2023-06-13 15:18:56,686 [main] INFO logger_file - User is on homepage
+2023-06-13 15:18:57,005 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:18:57,193 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:18:57,441 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:18:57,657 [main] INFO logger_file - User is signed into account
+2023-06-13 15:18:57,973 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:18:58,208 [main] INFO logger_file - User clicked on add payment method link
+2023-06-13 15:18:58,994 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-13 15:18:59,240 [main] INFO logger_file - User clicked on add your card button
+2023-06-13 15:18:59,993 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-13 15:19:05,256 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:05,558 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:05,721 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:05,966 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:06,196 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:06,482 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:19:07,843 [main] INFO logger_file - User is on the card edit section
+2023-06-13 15:19:08,671 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-13 15:19:08,911 [main] INFO logger_file - User has clicked on update your card button
+2023-06-13 15:19:09,602 [main] INFO logger_file - User has successfully updated their card information
+2023-06-13 15:19:14,610 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:14,924 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:15,082 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:15,323 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:15,538 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:15,826 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:19:16,680 [main] INFO logger_file - User clicked on remove card information
+2023-06-13 15:19:22,084 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:22,374 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:22,499 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:22,737 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:22,942 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:23,227 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:19:23,482 [main] INFO logger_file - User clicked on add address box
+2023-06-13 15:19:24,280 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-13 15:19:24,568 [main] INFO logger_file - User clicked on address button
+2023-06-13 15:19:25,208 [main] INFO logger_file - Address has been successfully added
+2023-06-13 15:19:30,192 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:30,499 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:30,668 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:30,908 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:31,192 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:31,472 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:19:31,713 [main] INFO logger_file - User clicked on edit address button
+2023-06-13 15:19:32,526 [main] INFO logger_file - User changed their address information
+2023-06-13 15:19:32,807 [main] INFO logger_file - User clicked on the update address button
+2023-06-13 15:19:33,455 [main] INFO logger_file - User has successfully updated their address information
+2023-06-13 15:19:38,574 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:38,886 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:39,063 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:39,305 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:39,469 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:39,748 [main] INFO logger_file - User clicked on account option
+2023-06-13 15:19:40,494 [main] INFO logger_file - User clicked on remove address button
+2023-06-13 15:19:45,712 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:46,024 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:46,152 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:46,393 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:46,591 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:46,858 [main] INFO logger_file - User changed department category
+2023-06-13 15:19:46,905 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-06-13 15:19:47,137 [main] INFO logger_file - User clicked on search button
+2023-06-13 15:19:47,394 [main] INFO logger_file - User clicked on item
+2023-06-13 15:19:47,674 [main] INFO logger_file - User changed the quantity of the item
+2023-06-13 15:19:47,964 [main] INFO logger_file - User clicked on add to cart button
+2023-06-13 15:19:48,077 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-13 15:19:53,396 [main] INFO logger_file - User is on homepage
+2023-06-13 15:19:53,690 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:19:53,864 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:19:54,105 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:19:54,271 [main] INFO logger_file - User is signed into account
+2023-06-13 15:19:54,546 [main] INFO logger_file - User changed department category
+2023-06-13 15:19:54,586 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-13 15:19:54,821 [main] INFO logger_file - User clicked on search button
+2023-06-13 15:19:55,224 [main] INFO logger_file - User clicked on item
+2023-06-13 15:19:55,469 [main] INFO logger_file - User changed the quantity of the item
+2023-06-13 15:19:55,791 [main] INFO logger_file - User clicked on add to cart button
+2023-06-13 15:20:01,249 [main] INFO logger_file - User is on homepage
+2023-06-13 15:20:01,542 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:20:01,660 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:20:01,899 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:20:02,233 [main] INFO logger_file - User is signed into account
+2023-06-13 15:20:02,477 [main] INFO logger_file - User clicked on order button
+2023-06-13 15:20:39,893 [main] INFO logger_file - User is on homepage
+2023-06-13 15:20:40,187 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:20:40,306 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:20:40,548 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:20:40,792 [main] INFO logger_file - User is signed into account
+2023-06-13 15:20:41,037 [main] INFO logger_file - User clicked on order button
+2023-06-13 15:21:04,259 [main] INFO logger_file - User is on homepage
+2023-06-13 15:21:04,564 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:21:04,715 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:21:04,953 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:21:05,214 [main] INFO logger_file - User is signed into account
+2023-06-13 15:21:05,461 [main] INFO logger_file - User clicked on order button
+2023-06-13 15:21:26,200 [main] INFO logger_file - User is on homepage
+2023-06-13 15:21:26,510 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:21:26,644 [main] INFO logger_file - User entered email and password field
+2023-06-13 15:21:26,881 [main] INFO logger_file - User clicked on login button
+2023-06-13 15:21:27,067 [main] INFO logger_file - User is signed into account
+2023-06-13 15:21:32,215 [main] INFO logger_file - User is on homepage
+2023-06-13 15:21:32,505 [main] INFO logger_file - User clicked on Sign In option
+2023-06-13 15:21:32,761 [main] INFO logger_file - User clicked on create new account button
+2023-06-13 15:21:33,059 [main] INFO logger_file - User entered Name : Email : Password : Confirm Password
+2023-06-13 15:21:33,300 [main] INFO logger_file - User clicked on sign up button
+2023-06-13 15:21:34,101 [main] INFO logger_file - User is logged into account page
+2023-06-15 13:26:29,985 [main] INFO logger_file - User is on homepage
+2023-06-15 13:26:30,325 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:26:30,517 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:26:30,767 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:26:30,970 [main] INFO logger_file - User is signed into account
+2023-06-15 13:26:31,271 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:26:31,568 [main] INFO logger_file - User updated name and phone values
+2023-06-15 13:26:31,821 [main] INFO logger_file - User clicked on update button
+2023-06-15 13:26:32,577 [main] INFO logger_file - User information has been updated!
+2023-06-15 13:26:32,577 [main] INFO logger_file - New Name: Raven Metz
+2023-06-15 13:26:32,578 [main] INFO logger_file - New Phone Number: (592) 604-3030
+2023-06-15 13:26:37,941 [main] INFO logger_file - User is on homepage
+2023-06-15 13:26:38,265 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:26:38,535 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:26:38,778 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:26:38,986 [main] INFO logger_file - User is signed into account
+2023-06-15 13:26:39,284 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:26:39,527 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 13:26:40,316 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 13:26:40,567 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 13:26:41,271 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 13:26:46,543 [main] INFO logger_file - User is on homepage
+2023-06-15 13:26:46,840 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:26:47,014 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:26:47,261 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:26:47,440 [main] INFO logger_file - User is signed into account
+2023-06-15 13:26:47,729 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:26:49,292 [main] INFO logger_file - User is on the card edit section
+2023-06-15 13:26:50,171 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 13:26:50,424 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 13:26:59,927 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 13:27:05,199 [main] INFO logger_file - User is on homepage
+2023-06-15 13:27:05,500 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:27:05,664 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:27:05,907 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:27:06,097 [main] INFO logger_file - User is signed into account
+2023-06-15 13:27:06,380 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:27:07,127 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 13:27:07,138 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 13:27:12,154 [main] INFO logger_file - User is on homepage
+2023-06-15 13:27:12,462 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:27:12,629 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:27:12,869 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:27:13,659 [main] INFO logger_file - User is signed into account
+2023-06-15 13:27:13,940 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:27:14,202 [main] INFO logger_file - User clicked on add address box
+2023-06-15 13:27:14,956 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 13:27:15,236 [main] INFO logger_file - User clicked on address button
+2023-06-15 13:27:15,907 [main] INFO logger_file - Address has been successfully added
+2023-06-15 13:27:21,241 [main] INFO logger_file - User is on homepage
+2023-06-15 13:27:21,541 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:27:21,667 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:27:21,909 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:27:22,100 [main] INFO logger_file - User is signed into account
+2023-06-15 13:27:22,379 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:27:22,777 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 13:27:23,588 [main] INFO logger_file - User changed their address information
+2023-06-15 13:27:23,870 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 13:27:24,544 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 13:27:29,365 [main] INFO logger_file - User is on homepage
+2023-06-15 13:27:29,667 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:27:29,825 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:27:30,064 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:27:30,277 [main] INFO logger_file - User is signed into account
+2023-06-15 13:27:30,562 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:27:30,967 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 13:31:09,115 [main] INFO logger_file - User is on homepage
+2023-06-15 13:31:09,440 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:31:09,634 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:31:09,882 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:31:10,073 [main] INFO logger_file - User is signed into account
+2023-06-15 13:31:10,377 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:31:10,759 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 13:32:34,153 [main] INFO logger_file - User is on homepage
+2023-06-15 13:32:34,490 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:32:34,742 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:32:34,991 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:32:35,186 [main] INFO logger_file - User is signed into account
+2023-06-15 13:32:35,503 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:32:35,772 [main] INFO logger_file - User updated name and phone values
+2023-06-15 13:32:36,023 [main] INFO logger_file - User clicked on update button
+2023-06-15 13:32:36,648 [main] INFO logger_file - User information has been updated!
+2023-06-15 13:32:36,649 [main] INFO logger_file - New Name: Mr Maple Yundt
+2023-06-15 13:32:36,649 [main] INFO logger_file - New Phone Number: 1-971-675-3314
+2023-06-15 13:32:41,627 [main] INFO logger_file - User is on homepage
+2023-06-15 13:32:41,939 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:32:42,115 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:32:42,364 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:32:42,572 [main] INFO logger_file - User is signed into account
+2023-06-15 13:32:42,880 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:32:43,124 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 13:32:43,915 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 13:32:44,163 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 13:32:44,817 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 13:32:50,220 [main] INFO logger_file - User is on homepage
+2023-06-15 13:32:50,527 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:32:50,709 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:32:50,954 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:32:51,159 [main] INFO logger_file - User is signed into account
+2023-06-15 13:32:51,458 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:32:52,950 [main] INFO logger_file - User is on the card edit section
+2023-06-15 13:32:53,750 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 13:32:53,991 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 13:32:54,696 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 13:32:59,766 [main] INFO logger_file - User is on homepage
+2023-06-15 13:33:00,068 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:33:00,194 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:33:00,437 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:33:00,620 [main] INFO logger_file - User is signed into account
+2023-06-15 13:33:00,919 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:33:01,767 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 13:33:07,109 [main] INFO logger_file - User is on homepage
+2023-06-15 13:33:07,428 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:33:07,604 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:33:07,849 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:33:08,152 [main] INFO logger_file - User is signed into account
+2023-06-15 13:33:08,442 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:33:08,693 [main] INFO logger_file - User clicked on add address box
+2023-06-15 13:33:09,475 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 13:33:09,757 [main] INFO logger_file - User clicked on address button
+2023-06-15 13:33:10,408 [main] INFO logger_file - Address has been successfully added
+2023-06-15 13:33:15,600 [main] INFO logger_file - User is on homepage
+2023-06-15 13:33:15,918 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:33:16,042 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:33:16,283 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:33:16,449 [main] INFO logger_file - User is signed into account
+2023-06-15 13:33:16,731 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:33:17,489 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 13:33:18,296 [main] INFO logger_file - User changed their address information
+2023-06-15 13:33:18,585 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 13:33:19,355 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 13:33:24,386 [main] INFO logger_file - User is on homepage
+2023-06-15 13:33:24,695 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:33:24,866 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:33:25,105 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:33:25,273 [main] INFO logger_file - User is signed into account
+2023-06-15 13:33:25,560 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:33:25,967 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 13:35:30,185 [main] INFO logger_file - User is on homepage
+2023-06-15 13:35:30,512 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:35:30,682 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:35:30,932 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:35:31,168 [main] INFO logger_file - User is signed into account
+2023-06-15 13:35:31,466 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:35:31,733 [main] INFO logger_file - User updated name and phone values
+2023-06-15 13:35:31,988 [main] INFO logger_file - User clicked on update button
+2023-06-15 13:35:32,827 [main] INFO logger_file - User information has been updated!
+2023-06-15 13:35:32,827 [main] INFO logger_file - New Name: Ruben Kovacek
+2023-06-15 13:35:32,828 [main] INFO logger_file - New Phone Number: (988) 244-3099
+2023-06-15 13:35:37,812 [main] INFO logger_file - User is on homepage
+2023-06-15 13:35:38,120 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:35:38,305 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:35:38,554 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:35:38,766 [main] INFO logger_file - User is signed into account
+2023-06-15 13:35:39,060 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:35:39,297 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 13:35:40,099 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 13:35:40,349 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 13:35:41,002 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 13:35:45,950 [main] INFO logger_file - User is on homepage
+2023-06-15 13:35:46,269 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:35:46,459 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:35:46,704 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:35:46,915 [main] INFO logger_file - User is signed into account
+2023-06-15 13:35:47,204 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:35:48,647 [main] INFO logger_file - User is on the card edit section
+2023-06-15 13:35:49,527 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 13:35:49,780 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 13:35:50,468 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 13:35:55,422 [main] INFO logger_file - User is on homepage
+2023-06-15 13:35:55,739 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:35:55,915 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:35:56,158 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:35:56,355 [main] INFO logger_file - User is signed into account
+2023-06-15 13:35:56,664 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:35:57,411 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 13:36:02,596 [main] INFO logger_file - User is on homepage
+2023-06-15 13:36:02,900 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:36:03,066 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:36:03,308 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:36:03,474 [main] INFO logger_file - User is signed into account
+2023-06-15 13:36:03,766 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:36:04,018 [main] INFO logger_file - User clicked on add address box
+2023-06-15 13:36:04,807 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 13:36:05,097 [main] INFO logger_file - User clicked on address button
+2023-06-15 13:36:05,774 [main] INFO logger_file - Address has been successfully added
+2023-06-15 13:36:10,994 [main] INFO logger_file - User is on homepage
+2023-06-15 13:36:11,286 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:36:11,456 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:36:11,698 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:36:11,855 [main] INFO logger_file - User is signed into account
+2023-06-15 13:36:12,141 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:36:12,562 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 13:36:13,369 [main] INFO logger_file - User changed their address information
+2023-06-15 13:36:13,655 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 13:36:14,308 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 13:36:19,258 [main] INFO logger_file - User is on homepage
+2023-06-15 13:36:19,572 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:36:19,737 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:36:19,976 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:36:20,138 [main] INFO logger_file - User is signed into account
+2023-06-15 13:36:20,431 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:36:20,741 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 13:42:46,264 [main] INFO logger_file - User is on homepage
+2023-06-15 13:42:46,609 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:42:46,822 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:42:47,073 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:42:47,277 [main] INFO logger_file - User is signed into account
+2023-06-15 13:42:47,580 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:42:47,842 [main] INFO logger_file - User updated name and phone values
+2023-06-15 13:42:48,098 [main] INFO logger_file - User clicked on update button
+2023-06-15 13:42:48,850 [main] INFO logger_file - User information has been updated!
+2023-06-15 13:42:48,851 [main] INFO logger_file - New Name: Dong Anderson
+2023-06-15 13:42:48,851 [main] INFO logger_file - New Phone Number: (305) 867-3181
+2023-06-15 13:42:54,065 [main] INFO logger_file - User is on homepage
+2023-06-15 13:42:54,371 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:42:54,504 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:42:54,753 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:42:54,948 [main] INFO logger_file - User is signed into account
+2023-06-15 13:42:55,243 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:42:55,483 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 13:42:56,288 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 13:42:56,537 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 13:42:57,168 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 13:43:02,292 [main] INFO logger_file - User is on homepage
+2023-06-15 13:43:02,618 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:43:02,754 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:43:03,001 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:43:03,203 [main] INFO logger_file - User is signed into account
+2023-06-15 13:43:03,495 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:43:05,033 [main] INFO logger_file - User is on the card edit section
+2023-06-15 13:43:05,954 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 13:43:06,212 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 13:43:11,303 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 13:43:16,401 [main] INFO logger_file - User is on homepage
+2023-06-15 13:43:16,700 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:43:16,857 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:43:17,103 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:43:17,300 [main] INFO logger_file - User is signed into account
+2023-06-15 13:43:17,583 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:43:18,283 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 13:43:18,294 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 13:43:23,529 [main] INFO logger_file - User is on homepage
+2023-06-15 13:43:23,824 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:43:24,006 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:43:24,246 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:43:24,402 [main] INFO logger_file - User is signed into account
+2023-06-15 13:43:24,691 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:43:24,951 [main] INFO logger_file - User clicked on add address box
+2023-06-15 13:43:25,704 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 13:43:25,989 [main] INFO logger_file - User clicked on address button
+2023-06-15 13:43:26,755 [main] INFO logger_file - Address has been successfully added
+2023-06-15 13:43:31,884 [main] INFO logger_file - User is on homepage
+2023-06-15 13:43:32,184 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:43:32,299 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:43:32,546 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:43:32,738 [main] INFO logger_file - User is signed into account
+2023-06-15 13:43:33,020 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:43:33,722 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 13:43:34,512 [main] INFO logger_file - User changed their address information
+2023-06-15 13:43:34,802 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 13:43:35,600 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 13:43:40,496 [main] INFO logger_file - User is on homepage
+2023-06-15 13:43:40,814 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 13:43:40,932 [main] INFO logger_file - User entered email and password field
+2023-06-15 13:43:41,176 [main] INFO logger_file - User clicked on login button
+2023-06-15 13:43:41,386 [main] INFO logger_file - User is signed into account
+2023-06-15 13:43:41,671 [main] INFO logger_file - User clicked on account option
+2023-06-15 13:43:42,101 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 14:31:24,812 [main] INFO logger_file - User is on homepage
+2023-06-15 14:31:25,147 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:31:25,339 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:31:25,587 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:31:25,779 [main] INFO logger_file - User is signed into account
+2023-06-15 14:31:26,080 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:31:26,376 [main] INFO logger_file - User updated name and phone values
+2023-06-15 14:31:26,636 [main] INFO logger_file - User clicked on update button
+2023-06-15 14:31:27,362 [main] INFO logger_file - User information has been updated!
+2023-06-15 14:31:27,362 [main] INFO logger_file - New Name: Shantae Franecki II
+2023-06-15 14:31:27,362 [main] INFO logger_file - New Phone Number: 1-936-695-8738
+2023-06-15 14:31:32,407 [main] INFO logger_file - User is on homepage
+2023-06-15 14:31:32,755 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:31:32,957 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:31:33,207 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:31:33,380 [main] INFO logger_file - User is signed into account
+2023-06-15 14:31:33,673 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:31:33,931 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 14:31:34,748 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 14:31:34,994 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 14:32:15,517 [main] INFO logger_file - User is on homepage
+2023-06-15 14:32:15,845 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:32:16,047 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:32:16,298 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:32:16,473 [main] INFO logger_file - User is signed into account
+2023-06-15 14:32:16,774 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:32:17,053 [main] INFO logger_file - User updated name and phone values
+2023-06-15 14:32:17,301 [main] INFO logger_file - User clicked on update button
+2023-06-15 14:32:17,937 [main] INFO logger_file - User information has been updated!
+2023-06-15 14:32:17,938 [main] INFO logger_file - New Name: Olen Powlowski
+2023-06-15 14:32:17,938 [main] INFO logger_file - New Phone Number: 817.086.8244
+2023-06-15 14:32:22,882 [main] INFO logger_file - User is on homepage
+2023-06-15 14:32:23,194 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:32:23,373 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:32:23,619 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:32:23,782 [main] INFO logger_file - User is signed into account
+2023-06-15 14:32:24,079 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:32:24,316 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 14:32:25,135 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 14:32:25,383 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 14:32:26,033 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 14:32:31,022 [main] INFO logger_file - User is on homepage
+2023-06-15 14:32:31,324 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:32:31,503 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:32:31,750 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:32:31,917 [main] INFO logger_file - User is signed into account
+2023-06-15 14:32:32,209 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:32:33,476 [main] INFO logger_file - User is on the card edit section
+2023-06-15 14:32:34,318 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 14:32:34,558 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 14:32:35,317 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 14:32:40,381 [main] INFO logger_file - User is on homepage
+2023-06-15 14:32:40,701 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:32:40,884 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:32:41,126 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:32:41,338 [main] INFO logger_file - User is signed into account
+2023-06-15 14:32:41,620 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:32:42,673 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 14:32:42,684 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 14:32:47,793 [main] INFO logger_file - User is on homepage
+2023-06-15 14:32:48,089 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:32:48,265 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:32:48,507 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:32:48,710 [main] INFO logger_file - User is signed into account
+2023-06-15 14:32:48,993 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:32:49,248 [main] INFO logger_file - User clicked on add address box
+2023-06-15 14:32:50,007 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 14:32:50,291 [main] INFO logger_file - User clicked on address button
+2023-06-15 14:32:50,946 [main] INFO logger_file - Address has been successfully added
+2023-06-15 14:32:56,357 [main] INFO logger_file - User is on homepage
+2023-06-15 14:32:56,650 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:32:56,835 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:32:57,079 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:32:57,224 [main] INFO logger_file - User is signed into account
+2023-06-15 14:32:57,503 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:32:57,933 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 14:32:58,768 [main] INFO logger_file - User changed their address information
+2023-06-15 14:32:59,052 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 14:32:59,734 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 14:33:04,787 [main] INFO logger_file - User is on homepage
+2023-06-15 14:33:05,082 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:33:05,211 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:33:05,453 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:33:05,658 [main] INFO logger_file - User is signed into account
+2023-06-15 14:33:05,938 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:33:06,322 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 14:33:06,326 [main] INFO logger_file - Address details has not been removed successfully.
+2023-06-15 14:39:37,851 [main] INFO logger_file - User is on homepage
+2023-06-15 14:39:38,189 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:39:38,378 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:39:38,629 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:39:38,852 [main] INFO logger_file - User is signed into account
+2023-06-15 14:39:39,154 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:39:39,431 [main] INFO logger_file - User updated name and phone values
+2023-06-15 14:39:39,678 [main] INFO logger_file - User clicked on update button
+2023-06-15 14:39:40,438 [main] INFO logger_file - User information has been updated!
+2023-06-15 14:39:40,439 [main] INFO logger_file - New Name: Lino Beatty
+2023-06-15 14:39:40,439 [main] INFO logger_file - New Phone Number: 939.230.8434
+2023-06-15 14:39:45,689 [main] INFO logger_file - User is on homepage
+2023-06-15 14:39:45,998 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:39:46,159 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:39:46,408 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:39:46,571 [main] INFO logger_file - User is signed into account
+2023-06-15 14:39:46,872 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:39:47,110 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 14:39:47,896 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 14:39:48,198 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 14:39:49,055 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 14:39:54,413 [main] INFO logger_file - User is on homepage
+2023-06-15 14:39:54,715 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:39:54,897 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:39:55,143 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:39:55,302 [main] INFO logger_file - User is signed into account
+2023-06-15 14:39:55,599 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:39:57,015 [main] INFO logger_file - User is on the card edit section
+2023-06-15 14:39:57,918 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 14:39:58,171 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 14:39:58,875 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 14:40:04,354 [main] INFO logger_file - User is on homepage
+2023-06-15 14:40:04,648 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:40:04,812 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:40:05,056 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:40:05,265 [main] INFO logger_file - User is signed into account
+2023-06-15 14:40:05,555 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:40:06,386 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 14:40:06,398 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 14:40:11,390 [main] INFO logger_file - User is on homepage
+2023-06-15 14:40:11,700 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:40:11,874 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:40:12,116 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:40:12,301 [main] INFO logger_file - User is signed into account
+2023-06-15 14:40:12,601 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:40:12,851 [main] INFO logger_file - User clicked on add address box
+2023-06-15 14:40:13,614 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 14:40:13,899 [main] INFO logger_file - User clicked on address button
+2023-06-15 14:40:14,655 [main] INFO logger_file - Address has been successfully added
+2023-06-15 14:40:19,815 [main] INFO logger_file - User is on homepage
+2023-06-15 14:40:20,125 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:40:20,256 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:40:20,500 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:40:20,719 [main] INFO logger_file - User is signed into account
+2023-06-15 14:40:21,019 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:40:21,677 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 14:40:22,483 [main] INFO logger_file - User changed their address information
+2023-06-15 14:40:22,771 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 14:40:23,480 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 14:40:28,687 [main] INFO logger_file - User is on homepage
+2023-06-15 14:40:28,984 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:40:29,140 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:40:29,384 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:40:29,534 [main] INFO logger_file - User is signed into account
+2023-06-15 14:40:29,813 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:40:30,260 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 14:40:30,270 [main] INFO logger_file - Address details has not been removed successfully.
+2023-06-15 14:48:24,720 [main] INFO logger_file - User is on homepage
+2023-06-15 14:48:25,051 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:48:25,246 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:48:25,495 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:48:25,679 [main] INFO logger_file - User is signed into account
+2023-06-15 14:48:25,993 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:48:26,339 [main] INFO logger_file - User updated name and phone values
+2023-06-15 14:48:26,589 [main] INFO logger_file - User clicked on update button
+2023-06-15 14:48:27,376 [main] INFO logger_file - User information has been updated!
+2023-06-15 14:48:27,377 [main] INFO logger_file - New Name: Emanuel Hauck
+2023-06-15 14:48:27,378 [main] INFO logger_file - New Phone Number: 674.297.5803
+2023-06-15 14:48:32,452 [main] INFO logger_file - User is on homepage
+2023-06-15 14:48:32,777 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:48:32,905 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:48:33,171 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:48:33,341 [main] INFO logger_file - User is signed into account
+2023-06-15 14:48:33,646 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:48:33,882 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 14:48:34,654 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 14:48:34,921 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 14:48:35,573 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 14:48:40,639 [main] INFO logger_file - User is on homepage
+2023-06-15 14:48:40,967 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:48:41,091 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:48:41,338 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:48:41,523 [main] INFO logger_file - User is signed into account
+2023-06-15 14:48:41,822 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:48:43,003 [main] INFO logger_file - User is on the card edit section
+2023-06-15 14:48:43,786 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 14:48:44,026 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 14:48:44,728 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 14:48:49,747 [main] INFO logger_file - User is on homepage
+2023-06-15 14:48:50,044 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:48:50,231 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:48:50,473 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:48:50,672 [main] INFO logger_file - User is signed into account
+2023-06-15 14:48:50,965 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:48:51,869 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 14:48:51,881 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 14:48:56,903 [main] INFO logger_file - User is on homepage
+2023-06-15 14:48:57,197 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:48:57,372 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:48:57,616 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:48:57,825 [main] INFO logger_file - User is signed into account
+2023-06-15 14:48:58,109 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:48:58,364 [main] INFO logger_file - User clicked on add address box
+2023-06-15 14:48:59,136 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 14:48:59,415 [main] INFO logger_file - User clicked on address button
+2023-06-15 14:49:00,165 [main] INFO logger_file - Address has been successfully added
+2023-06-15 14:49:05,099 [main] INFO logger_file - User is on homepage
+2023-06-15 14:49:05,393 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:49:05,557 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:49:05,797 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:49:06,068 [main] INFO logger_file - User is signed into account
+2023-06-15 14:49:06,454 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:49:07,042 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 14:49:07,804 [main] INFO logger_file - User changed their address information
+2023-06-15 14:49:08,094 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 14:49:08,815 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 14:49:13,776 [main] INFO logger_file - User is on homepage
+2023-06-15 14:49:14,075 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 14:49:14,243 [main] INFO logger_file - User entered email and password field
+2023-06-15 14:49:14,483 [main] INFO logger_file - User clicked on login button
+2023-06-15 14:49:14,662 [main] INFO logger_file - User is signed into account
+2023-06-15 14:49:14,942 [main] INFO logger_file - User clicked on account option
+2023-06-15 14:49:15,178 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 15:20:19,398 [main] INFO logger_file - User is on homepage
+2023-06-15 15:20:19,732 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:20:19,882 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:20:20,134 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:20:20,328 [main] INFO logger_file - User is signed into account
+2023-06-15 15:20:20,638 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:20:20,926 [main] INFO logger_file - User updated name and phone values
+2023-06-15 15:20:21,176 [main] INFO logger_file - User clicked on update button
+2023-06-15 15:20:21,921 [main] INFO logger_file - User information has been updated!
+2023-06-15 15:20:21,921 [main] INFO logger_file - New Name: Ernesto Sporer
+2023-06-15 15:20:21,922 [main] INFO logger_file - New Phone Number: 070.022.6537
+2023-06-15 15:20:27,050 [main] INFO logger_file - User is on homepage
+2023-06-15 15:20:27,363 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:20:27,491 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:20:27,736 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:20:28,067 [main] INFO logger_file - User is signed into account
+2023-06-15 15:20:28,386 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:20:28,628 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 15:20:29,428 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 15:20:29,676 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 15:20:30,327 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 15:20:35,336 [main] INFO logger_file - User is on homepage
+2023-06-15 15:20:35,656 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:20:35,855 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:20:36,100 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:20:36,251 [main] INFO logger_file - User is signed into account
+2023-06-15 15:20:36,550 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:20:38,064 [main] INFO logger_file - User is on the card edit section
+2023-06-15 15:20:38,944 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 15:20:39,216 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 15:20:39,994 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 15:20:45,391 [main] INFO logger_file - User is on homepage
+2023-06-15 15:20:45,692 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:20:45,859 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:20:46,104 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:20:46,316 [main] INFO logger_file - User is signed into account
+2023-06-15 15:20:46,607 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:20:47,437 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 15:20:47,448 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 15:20:52,426 [main] INFO logger_file - User is on homepage
+2023-06-15 15:20:52,731 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:20:52,924 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:20:53,167 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:20:53,352 [main] INFO logger_file - User is signed into account
+2023-06-15 15:20:53,640 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:20:53,895 [main] INFO logger_file - User clicked on add address box
+2023-06-15 15:20:54,694 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 15:20:54,987 [main] INFO logger_file - User clicked on address button
+2023-06-15 15:20:55,633 [main] INFO logger_file - Address has been successfully added
+2023-06-15 15:21:00,586 [main] INFO logger_file - User is on homepage
+2023-06-15 15:21:00,887 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:21:01,068 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:21:01,311 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:21:01,502 [main] INFO logger_file - User is signed into account
+2023-06-15 15:21:01,786 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:21:02,568 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 15:21:03,375 [main] INFO logger_file - User changed their address information
+2023-06-15 15:21:03,673 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 15:21:04,389 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 15:21:09,447 [main] INFO logger_file - User is on homepage
+2023-06-15 15:21:09,769 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:21:09,912 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:21:10,153 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:21:10,354 [main] INFO logger_file - User is signed into account
+2023-06-15 15:21:10,644 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:26:38,434 [main] INFO logger_file - User is on homepage
+2023-06-15 15:26:38,786 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:26:38,914 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:26:39,163 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:26:39,462 [main] INFO logger_file - User is signed into account
+2023-06-15 15:26:39,775 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:26:40,079 [main] INFO logger_file - User updated name and phone values
+2023-06-15 15:26:40,334 [main] INFO logger_file - User clicked on update button
+2023-06-15 15:26:41,088 [main] INFO logger_file - User information has been updated!
+2023-06-15 15:26:41,088 [main] INFO logger_file - New Name: Arnulfo Hodkiewicz
+2023-06-15 15:26:41,088 [main] INFO logger_file - New Phone Number: 1-665-646-1144
+2023-06-15 15:26:46,320 [main] INFO logger_file - User is on homepage
+2023-06-15 15:26:46,644 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:26:46,821 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:26:47,069 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:26:47,248 [main] INFO logger_file - User is signed into account
+2023-06-15 15:26:47,581 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:26:47,819 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 15:26:48,639 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 15:26:48,881 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 15:26:49,504 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 15:26:54,983 [main] INFO logger_file - User is on homepage
+2023-06-15 15:26:55,284 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:26:55,466 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:26:55,717 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:26:55,866 [main] INFO logger_file - User is signed into account
+2023-06-15 15:26:56,162 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:26:57,409 [main] INFO logger_file - User is on the card edit section
+2023-06-15 15:26:58,260 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 15:26:58,498 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 15:26:59,186 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 15:27:04,375 [main] INFO logger_file - User is on homepage
+2023-06-15 15:27:04,684 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:27:04,823 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:27:05,067 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:27:05,233 [main] INFO logger_file - User is signed into account
+2023-06-15 15:27:05,516 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:27:06,477 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 15:27:11,820 [main] INFO logger_file - User is on homepage
+2023-06-15 15:27:12,129 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:27:12,310 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:27:12,553 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:27:13,334 [main] INFO logger_file - User is signed into account
+2023-06-15 15:27:13,622 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:27:13,876 [main] INFO logger_file - User clicked on add address box
+2023-06-15 15:27:14,629 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 15:27:14,909 [main] INFO logger_file - User clicked on address button
+2023-06-15 15:27:15,546 [main] INFO logger_file - Address has been successfully added
+2023-06-15 15:27:20,646 [main] INFO logger_file - User is on homepage
+2023-06-15 15:27:20,943 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:27:21,111 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:27:21,350 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:27:21,564 [main] INFO logger_file - User is signed into account
+2023-06-15 15:27:21,858 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:27:22,520 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 15:27:23,322 [main] INFO logger_file - User changed their address information
+2023-06-15 15:27:23,610 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 15:27:24,376 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 15:27:29,327 [main] INFO logger_file - User is on homepage
+2023-06-15 15:27:29,639 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:27:29,799 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:27:30,038 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:27:30,230 [main] INFO logger_file - User is signed into account
+2023-06-15 15:27:30,516 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:35:01,155 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:01,423 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-15 15:35:01,524 [main] INFO logger_file - User is on Shop by Deparment sidebar
+2023-06-15 15:35:06,877 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:07,132 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-15 15:35:07,456 [main] INFO logger_file - TV & Video is present
+2023-06-15 15:35:12,728 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:13,010 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-15 15:35:13,281 [main] INFO logger_file - Accessories is present
+2023-06-15 15:35:18,229 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:18,553 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-15 15:35:18,886 [main] INFO logger_file - Smart Home Lightning is present
+2023-06-15 15:35:23,986 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:24,280 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-15 15:35:24,583 [main] INFO logger_file - Athletic Clothing is present
+2023-06-15 15:35:29,676 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:30,011 [main] INFO logger_file - User clicked on 'All Section button'
+2023-06-15 15:35:35,523 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:35,837 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:35:36,060 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:35:36,302 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:35:36,482 [main] INFO logger_file - User is signed into account
+2023-06-15 15:35:36,785 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:35:37,101 [main] INFO logger_file - User updated name and phone values
+2023-06-15 15:35:37,349 [main] INFO logger_file - User clicked on update button
+2023-06-15 15:35:38,122 [main] INFO logger_file - User information has been updated!
+2023-06-15 15:35:38,122 [main] INFO logger_file - New Name: Johnny Hermiston
+2023-06-15 15:35:38,123 [main] INFO logger_file - New Phone Number: 594.134.8380
+2023-06-15 15:35:43,420 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:43,723 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:35:43,892 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:35:44,147 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:35:44,435 [main] INFO logger_file - User is signed into account
+2023-06-15 15:35:44,860 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:35:45,095 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 15:35:45,880 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 15:35:46,132 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 15:35:46,806 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 15:35:52,033 [main] INFO logger_file - User is on homepage
+2023-06-15 15:35:52,396 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:35:52,507 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:35:52,755 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:35:53,056 [main] INFO logger_file - User is signed into account
+2023-06-15 15:35:53,350 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:35:54,469 [main] INFO logger_file - User is on the card edit section
+2023-06-15 15:35:55,307 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 15:35:55,547 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 15:36:44,222 [main] INFO logger_file - User is on homepage
+2023-06-15 15:36:44,538 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:36:44,669 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:36:44,910 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:36:45,089 [main] INFO logger_file - User is signed into account
+2023-06-15 15:36:45,374 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:36:46,105 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 15:36:46,117 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 15:36:51,073 [main] INFO logger_file - User is on homepage
+2023-06-15 15:36:51,372 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:36:51,538 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:36:51,782 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:36:51,986 [main] INFO logger_file - User is signed into account
+2023-06-15 15:36:52,267 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:36:52,516 [main] INFO logger_file - User clicked on add address box
+2023-06-15 15:36:53,311 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 15:36:53,731 [main] INFO logger_file - User clicked on address button
+2023-06-15 15:36:54,412 [main] INFO logger_file - Address has been successfully added
+2023-06-15 15:36:59,621 [main] INFO logger_file - User is on homepage
+2023-06-15 15:36:59,933 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:37:00,085 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:37:00,327 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:37:00,537 [main] INFO logger_file - User is signed into account
+2023-06-15 15:37:00,818 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:37:01,556 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 15:37:02,365 [main] INFO logger_file - User changed their address information
+2023-06-15 15:37:02,659 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 15:37:03,413 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 15:37:08,478 [main] INFO logger_file - User is on homepage
+2023-06-15 15:37:08,786 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:37:08,964 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:37:09,205 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:37:09,383 [main] INFO logger_file - User is signed into account
+2023-06-15 15:37:09,660 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:37:39,918 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 15:38:01,659 [main] INFO logger_file - User is on homepage
+2023-06-15 15:38:01,954 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:38:02,073 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:38:02,313 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:38:02,547 [main] INFO logger_file - User is signed into account
+2023-06-15 15:38:02,814 [main] INFO logger_file - User changed department category
+2023-06-15 15:38:02,862 [main] INFO logger_file - User has entered kasa outdoor smart plug into the search field
+2023-06-15 15:38:03,098 [main] INFO logger_file - User clicked on search button
+2023-06-15 15:38:03,527 [main] INFO logger_file - User clicked on item
+2023-06-15 15:38:03,890 [main] INFO logger_file - User changed the quantity of the item
+2023-06-15 15:38:04,248 [main] INFO logger_file - User clicked on add to cart button
+2023-06-15 15:38:04,384 [main] INFO logger_file - Cart icon quantity has succesfully changed
+2023-06-15 15:38:09,422 [main] INFO logger_file - User is on homepage
+2023-06-15 15:38:09,740 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:38:09,860 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:38:10,101 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:38:10,271 [main] INFO logger_file - User is signed into account
+2023-06-15 15:38:10,535 [main] INFO logger_file - User changed department category
+2023-06-15 15:38:10,570 [main] INFO logger_file - User has entered Apex Legends into the search field
+2023-06-15 15:38:10,802 [main] INFO logger_file - User clicked on search button
+2023-06-15 15:38:11,068 [main] INFO logger_file - User clicked on item
+2023-06-15 15:38:11,391 [main] INFO logger_file - User changed the quantity of the item
+2023-06-15 15:38:11,668 [main] INFO logger_file - User clicked on add to cart button
+2023-06-15 15:38:17,190 [main] INFO logger_file - User is on homepage
+2023-06-15 15:38:17,496 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:38:17,651 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:38:17,891 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:38:18,090 [main] INFO logger_file - User is signed into account
+2023-06-15 15:38:18,338 [main] INFO logger_file - User clicked on order button
+2023-06-15 15:38:44,812 [main] INFO logger_file - User is on homepage
+2023-06-15 15:38:45,121 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:38:45,293 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:38:45,537 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:38:45,688 [main] INFO logger_file - User is signed into account
+2023-06-15 15:38:45,931 [main] INFO logger_file - User clicked on order button
+2023-06-15 15:38:56,834 [main] INFO logger_file - User is on homepage
+2023-06-15 15:38:57,121 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:38:57,287 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:38:57,530 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:38:57,752 [main] INFO logger_file - User is signed into account
+2023-06-15 15:38:57,997 [main] INFO logger_file - User clicked on order button
+2023-06-15 15:39:09,163 [main] INFO logger_file - User is on homepage
+2023-06-15 15:39:09,474 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:39:09,608 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:39:09,850 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:39:10,070 [main] INFO logger_file - User is signed into account
+2023-06-15 15:39:15,121 [main] INFO logger_file - User is on homepage
+2023-06-15 15:39:15,421 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:39:15,755 [main] INFO logger_file - User clicked on create new account button
+2023-06-15 15:39:16,042 [main] INFO logger_file - User entered Name : Email : Password : Confirm Password
+2023-06-15 15:39:16,281 [main] INFO logger_file - User clicked on sign up button
+2023-06-15 15:39:17,224 [main] INFO logger_file - User is logged into account page
+2023-06-15 15:42:27,681 [main] INFO logger_file - User is on homepage
+2023-06-15 15:42:28,009 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:42:28,199 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:42:28,450 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:42:28,606 [main] INFO logger_file - User is signed into account
+2023-06-15 15:42:28,918 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:42:29,225 [main] INFO logger_file - User updated name and phone values
+2023-06-15 15:42:29,478 [main] INFO logger_file - User clicked on update button
+2023-06-15 15:42:30,197 [main] INFO logger_file - User information has been updated!
+2023-06-15 15:42:30,198 [main] INFO logger_file - New Name: Terrell Fay
+2023-06-15 15:42:30,198 [main] INFO logger_file - New Phone Number: (971) 140-1883
+2023-06-15 15:42:35,431 [main] INFO logger_file - User is on homepage
+2023-06-15 15:42:35,756 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:42:35,926 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:42:36,176 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:42:36,382 [main] INFO logger_file - User is signed into account
+2023-06-15 15:42:36,676 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:42:36,915 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 15:42:37,644 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 15:42:37,895 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 15:42:46,615 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 15:42:51,879 [main] INFO logger_file - User is on homepage
+2023-06-15 15:42:52,178 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:42:52,363 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:42:52,608 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:42:52,817 [main] INFO logger_file - User is signed into account
+2023-06-15 15:42:53,104 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:42:54,499 [main] INFO logger_file - User is on the card edit section
+2023-06-15 15:42:55,417 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 15:42:55,669 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 15:42:56,450 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 15:43:01,393 [main] INFO logger_file - User is on homepage
+2023-06-15 15:43:01,708 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:43:01,890 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:43:02,135 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:43:02,362 [main] INFO logger_file - User is signed into account
+2023-06-15 15:43:02,647 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:43:03,318 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 15:43:08,945 [main] INFO logger_file - User is on homepage
+2023-06-15 15:43:09,242 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:43:09,415 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:43:09,669 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:43:09,832 [main] INFO logger_file - User is signed into account
+2023-06-15 15:43:10,122 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:43:10,375 [main] INFO logger_file - User clicked on add address box
+2023-06-15 15:43:11,129 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 15:43:11,407 [main] INFO logger_file - User clicked on address button
+2023-06-15 15:43:12,078 [main] INFO logger_file - Address has been successfully added
+2023-06-15 15:43:17,357 [main] INFO logger_file - User is on homepage
+2023-06-15 15:43:17,657 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:43:17,836 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:43:18,077 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:43:18,273 [main] INFO logger_file - User is signed into account
+2023-06-15 15:43:18,576 [main] INFO logger_file - User clicked on account option
+2023-06-15 15:43:18,995 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 15:43:19,801 [main] INFO logger_file - User changed their address information
+2023-06-15 15:43:20,079 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 15:43:20,790 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 15:43:26,130 [main] INFO logger_file - User is on homepage
+2023-06-15 15:43:26,437 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 15:43:26,621 [main] INFO logger_file - User entered email and password field
+2023-06-15 15:43:26,860 [main] INFO logger_file - User clicked on login button
+2023-06-15 15:43:27,034 [main] INFO logger_file - User is signed into account
+2023-06-15 15:43:27,317 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:01,597 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:01,931 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:02,133 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:02,382 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:02,708 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:03,024 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:03,383 [main] INFO logger_file - User updated name and phone values
+2023-06-15 22:32:03,634 [main] INFO logger_file - User clicked on update button
+2023-06-15 22:32:04,466 [main] INFO logger_file - User information has been updated!
+2023-06-15 22:32:04,467 [main] INFO logger_file - New Name: Maybelle Stehr
+2023-06-15 22:32:04,467 [main] INFO logger_file - New Phone Number: 1-640-834-8654
+2023-06-15 22:32:09,664 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:09,977 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:10,131 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:10,379 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:11,027 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:11,318 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:11,620 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 22:32:12,484 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 22:32:12,781 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 22:32:13,730 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 22:32:19,029 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:19,329 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:19,493 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:19,745 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:19,918 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:20,208 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:21,748 [main] INFO logger_file - User is on the card edit section
+2023-06-15 22:32:22,658 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 22:32:22,913 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 22:32:27,862 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 22:32:32,763 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:33,059 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:33,225 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:33,472 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:33,631 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:33,915 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:34,659 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 22:32:34,672 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 22:32:40,038 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:40,347 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:40,521 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:40,764 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:40,910 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:41,198 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:41,467 [main] INFO logger_file - User clicked on add address box
+2023-06-15 22:32:42,249 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 22:32:42,529 [main] INFO logger_file - User clicked on address button
+2023-06-15 22:32:43,180 [main] INFO logger_file - Address has been successfully added
+2023-06-15 22:32:48,363 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:48,658 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:48,794 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:49,037 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:49,198 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:49,487 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:32:49,888 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 22:32:50,663 [main] INFO logger_file - User changed their address information
+2023-06-15 22:32:50,949 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 22:32:51,612 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 22:32:56,706 [main] INFO logger_file - User is on homepage
+2023-06-15 22:32:57,014 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:32:57,173 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:32:57,415 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:32:57,628 [main] INFO logger_file - User is signed into account
+2023-06-15 22:32:57,911 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:37:12,238 [main] INFO logger_file - User is on homepage
+2023-06-15 22:37:12,570 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:37:12,745 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:37:12,994 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:37:13,213 [main] INFO logger_file - User is signed into account
+2023-06-15 22:37:13,514 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:37:13,793 [main] INFO logger_file - User updated name and phone values
+2023-06-15 22:37:14,051 [main] INFO logger_file - User clicked on update button
+2023-06-15 22:37:14,770 [main] INFO logger_file - User information has been updated!
+2023-06-15 22:37:14,770 [main] INFO logger_file - New Name: Peter Bednar
+2023-06-15 22:37:14,771 [main] INFO logger_file - New Phone Number: (919) 344-6645
+2023-06-15 22:37:20,222 [main] INFO logger_file - User is on homepage
+2023-06-15 22:37:20,529 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:37:20,708 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:37:20,955 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:37:21,145 [main] INFO logger_file - User is signed into account
+2023-06-15 22:37:21,457 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:37:21,693 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 22:37:22,495 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 22:37:22,746 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 22:37:23,386 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 22:37:28,480 [main] INFO logger_file - User is on homepage
+2023-06-15 22:37:28,800 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:37:28,974 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:37:29,219 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:37:29,378 [main] INFO logger_file - User is signed into account
+2023-06-15 22:37:29,668 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:37:31,227 [main] INFO logger_file - User is on the card edit section
+2023-06-15 22:37:32,151 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 22:37:32,423 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 22:37:38,705 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 22:37:43,837 [main] INFO logger_file - User is on homepage
+2023-06-15 22:37:44,147 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:37:44,328 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:37:44,572 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:37:44,731 [main] INFO logger_file - User is signed into account
+2023-06-15 22:37:45,023 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:37:45,928 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 22:37:45,940 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 22:37:51,142 [main] INFO logger_file - User is on homepage
+2023-06-15 22:37:51,440 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:37:51,565 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:37:51,809 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:37:51,977 [main] INFO logger_file - User is signed into account
+2023-06-15 22:37:52,269 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:37:52,532 [main] INFO logger_file - User clicked on add address box
+2023-06-15 22:37:53,344 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 22:37:53,632 [main] INFO logger_file - User clicked on address button
+2023-06-15 22:37:54,330 [main] INFO logger_file - Address has been successfully added
+2023-06-15 22:37:59,625 [main] INFO logger_file - User is on homepage
+2023-06-15 22:37:59,932 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:38:00,240 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:38:00,480 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:38:00,937 [main] INFO logger_file - User is signed into account
+2023-06-15 22:38:01,230 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:38:01,657 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 22:38:02,428 [main] INFO logger_file - User changed their address information
+2023-06-15 22:38:02,711 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 22:38:03,370 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 22:38:08,588 [main] INFO logger_file - User is on homepage
+2023-06-15 22:38:08,888 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:38:09,053 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:38:09,294 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:38:09,482 [main] INFO logger_file - User is signed into account
+2023-06-15 22:38:09,768 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:38:40,083 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 22:59:44,221 [main] INFO logger_file - User is on homepage
+2023-06-15 22:59:44,565 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:59:44,793 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:59:45,040 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:59:45,225 [main] INFO logger_file - User is signed into account
+2023-06-15 22:59:45,533 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:59:45,797 [main] INFO logger_file - User updated name and phone values
+2023-06-15 22:59:46,045 [main] INFO logger_file - User clicked on update button
+2023-06-15 22:59:46,778 [main] INFO logger_file - User information has been updated!
+2023-06-15 22:59:46,778 [main] INFO logger_file - New Name: Carleen Trantow
+2023-06-15 22:59:46,779 [main] INFO logger_file - New Phone Number: 862-188-2423
+2023-06-15 22:59:50,911 [main] INFO logger_file - User is on homepage
+2023-06-15 22:59:51,240 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:59:51,436 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:59:51,681 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:59:51,873 [main] INFO logger_file - User is signed into account
+2023-06-15 22:59:52,171 [main] INFO logger_file - User clicked on account option
+2023-06-15 22:59:52,462 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 22:59:53,319 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 22:59:53,575 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 22:59:54,290 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 22:59:58,622 [main] INFO logger_file - User is on homepage
+2023-06-15 22:59:58,947 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 22:59:59,086 [main] INFO logger_file - User entered email and password field
+2023-06-15 22:59:59,336 [main] INFO logger_file - User clicked on login button
+2023-06-15 22:59:59,549 [main] INFO logger_file - User is signed into account
+2023-06-15 22:59:59,839 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:00:01,346 [main] INFO logger_file - User is on the card edit section
+2023-06-15 23:00:02,287 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 23:00:02,559 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 23:00:03,305 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 23:00:07,357 [main] INFO logger_file - User is on homepage
+2023-06-15 23:00:07,663 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:00:07,821 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:00:08,062 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:00:08,242 [main] INFO logger_file - User is signed into account
+2023-06-15 23:00:08,523 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:00:09,268 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 23:00:13,620 [main] INFO logger_file - User is on homepage
+2023-06-15 23:00:13,912 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:00:14,079 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:00:14,321 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:00:14,480 [main] INFO logger_file - User is signed into account
+2023-06-15 23:00:14,761 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:00:15,015 [main] INFO logger_file - User clicked on add address box
+2023-06-15 23:00:15,778 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 23:00:16,108 [main] INFO logger_file - User clicked on address button
+2023-06-15 23:00:16,782 [main] INFO logger_file - Address has been successfully added
+2023-06-15 23:00:20,861 [main] INFO logger_file - User is on homepage
+2023-06-15 23:00:21,183 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:00:21,305 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:00:21,549 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:00:21,738 [main] INFO logger_file - User is signed into account
+2023-06-15 23:00:22,032 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:00:22,672 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 23:00:23,510 [main] INFO logger_file - User changed their address information
+2023-06-15 23:00:23,842 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 23:00:24,537 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 23:00:28,675 [main] INFO logger_file - User is on homepage
+2023-06-15 23:00:28,971 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:00:29,183 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:00:29,420 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:00:29,642 [main] INFO logger_file - User is signed into account
+2023-06-15 23:00:29,920 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:00:30,335 [main] INFO logger_file - The number of address on file before removal is: 5
+2023-06-15 23:00:30,573 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 23:00:30,573 [main] INFO logger_file - Address details has been removed successfully.
+2023-06-15 23:04:42,474 [main] INFO logger_file - User is on homepage
+2023-06-15 23:04:42,865 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:04:42,988 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:04:43,237 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:04:43,431 [main] INFO logger_file - User is signed into account
+2023-06-15 23:04:43,731 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:04:44,298 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 23:04:44,311 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 23:04:48,594 [main] INFO logger_file - User is on homepage
+2023-06-15 23:04:48,920 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:04:49,081 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:04:49,325 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:04:49,553 [main] INFO logger_file - User is signed into account
+2023-06-15 23:04:49,853 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:04:50,129 [main] INFO logger_file - User updated name and phone values
+2023-06-15 23:04:50,383 [main] INFO logger_file - User clicked on update button
+2023-06-15 23:04:51,107 [main] INFO logger_file - User information has been updated!
+2023-06-15 23:04:51,108 [main] INFO logger_file - New Name: Sara Lueilwitz
+2023-06-15 23:04:51,108 [main] INFO logger_file - New Phone Number: (125) 179-8715
+2023-06-15 23:04:55,455 [main] INFO logger_file - User is on homepage
+2023-06-15 23:04:55,758 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:04:55,930 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:04:56,173 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:04:56,350 [main] INFO logger_file - User is signed into account
+2023-06-15 23:04:56,637 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:04:56,870 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 23:04:57,652 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 23:04:57,906 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 23:04:58,585 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 23:05:03,046 [main] INFO logger_file - User is on homepage
+2023-06-15 23:05:03,354 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:05:03,540 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:05:03,780 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:05:04,043 [main] INFO logger_file - User is signed into account
+2023-06-15 23:05:04,330 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:05:05,888 [main] INFO logger_file - User is on the card edit section
+2023-06-15 23:05:06,718 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 23:05:07,073 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 23:05:07,849 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 23:05:12,224 [main] INFO logger_file - User is on homepage
+2023-06-15 23:05:12,539 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:05:12,669 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:05:12,908 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:05:13,107 [main] INFO logger_file - User is signed into account
+2023-06-15 23:05:13,389 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:05:13,639 [main] INFO logger_file - User clicked on add address box
+2023-06-15 23:05:14,407 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 23:05:14,706 [main] INFO logger_file - User clicked on address button
+2023-06-15 23:05:15,350 [main] INFO logger_file - Address has been successfully added
+2023-06-15 23:05:19,427 [main] INFO logger_file - User is on homepage
+2023-06-15 23:05:19,729 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:05:19,919 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:05:20,157 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:05:20,351 [main] INFO logger_file - User is signed into account
+2023-06-15 23:05:20,635 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:05:21,026 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 23:05:21,864 [main] INFO logger_file - User changed their address information
+2023-06-15 23:05:22,156 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 23:05:22,917 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 23:05:26,994 [main] INFO logger_file - User is on homepage
+2023-06-15 23:05:27,307 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:05:27,466 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:05:27,703 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:05:27,876 [main] INFO logger_file - User is signed into account
+2023-06-15 23:05:28,155 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:05:28,324 [main] INFO logger_file - The number of address on file before removal is: 5
+2023-06-15 23:05:28,579 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 23:05:28,581 [main] INFO logger_file - Address details has been removed successfully.
+2023-06-15 23:10:09,427 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:09,755 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:10,005 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:10,250 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:10,443 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:10,755 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:11,092 [main] INFO logger_file - User updated name and phone values
+2023-06-15 23:10:11,340 [main] INFO logger_file - User clicked on update button
+2023-06-15 23:10:11,992 [main] INFO logger_file - User information has been updated!
+2023-06-15 23:10:11,992 [main] INFO logger_file - New Name: Jaymie McKenzie
+2023-06-15 23:10:11,992 [main] INFO logger_file - New Phone Number: 665.295.3202
+2023-06-15 23:10:16,406 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:16,725 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:16,842 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:17,086 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:17,269 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:17,558 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:17,797 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 23:10:18,593 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 23:10:18,920 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 23:10:19,577 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 23:10:23,608 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:23,923 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:24,087 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:24,331 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:24,602 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:24,890 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:26,386 [main] INFO logger_file - User is on the card edit section
+2023-06-15 23:10:26,717 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 23:10:26,970 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 23:10:27,587 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 23:10:31,771 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:32,080 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:32,208 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:32,449 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:32,662 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:32,943 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:33,683 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 23:10:33,693 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 23:10:38,213 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:38,504 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:38,689 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:38,929 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:39,104 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:39,404 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:39,674 [main] INFO logger_file - User clicked on add address box
+2023-06-15 23:10:40,522 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 23:10:40,931 [main] INFO logger_file - User clicked on address button
+2023-06-15 23:10:41,596 [main] INFO logger_file - Address has been successfully added
+2023-06-15 23:10:46,132 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:46,416 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:46,600 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:46,841 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:47,013 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:47,295 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:47,913 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 23:10:48,735 [main] INFO logger_file - User changed their address information
+2023-06-15 23:10:49,060 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 23:10:49,684 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 23:10:54,060 [main] INFO logger_file - User is on homepage
+2023-06-15 23:10:54,399 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:10:54,700 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:10:54,936 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:10:55,078 [main] INFO logger_file - User is signed into account
+2023-06-15 23:10:55,355 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:10:55,759 [main] INFO logger_file - The number of address on file before removal is: 3
+2023-06-15 23:10:55,998 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 23:10:55,999 [main] INFO logger_file - Address details has been removed successfully.
+2023-06-15 23:15:46,652 [main] INFO logger_file - User is on homepage
+2023-06-15 23:15:46,976 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:15:47,214 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:15:47,462 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:15:47,667 [main] INFO logger_file - User is signed into account
+2023-06-15 23:15:47,970 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:15:48,246 [main] INFO logger_file - User updated name and phone values
+2023-06-15 23:15:48,511 [main] INFO logger_file - User clicked on update button
+2023-06-15 23:15:49,290 [main] INFO logger_file - User information has been updated!
+2023-06-15 23:15:49,291 [main] INFO logger_file - New Name: Lionel Bashirian
+2023-06-15 23:15:49,291 [main] INFO logger_file - New Phone Number: 1-925-370-8796
+2023-06-15 23:15:53,566 [main] INFO logger_file - User is on homepage
+2023-06-15 23:15:54,113 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:15:54,292 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:15:54,539 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:15:54,752 [main] INFO logger_file - User is signed into account
+2023-06-15 23:15:55,043 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:15:55,281 [main] INFO logger_file - User clicked on add payment method link
+2023-06-15 23:15:56,113 [main] INFO logger_file - User has filled in their debit/credit information
+2023-06-15 23:15:56,362 [main] INFO logger_file - User clicked on add your card button
+2023-06-15 23:15:57,106 [main] INFO logger_file - User has seccessfully added their payment method
+2023-06-15 23:16:01,570 [main] INFO logger_file - User is on homepage
+2023-06-15 23:16:01,868 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:16:02,070 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:16:02,313 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:16:02,532 [main] INFO logger_file - User is signed into account
+2023-06-15 23:16:02,832 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:16:04,287 [main] INFO logger_file - User is on the card edit section
+2023-06-15 23:16:05,179 [main] INFO logger_file - User has successfully edited their debit/credit information
+2023-06-15 23:16:05,427 [main] INFO logger_file - User has clicked on update your card button
+2023-06-15 23:16:06,126 [main] INFO logger_file - User has successfully updated their card information
+2023-06-15 23:16:10,228 [main] INFO logger_file - User is on homepage
+2023-06-15 23:16:10,553 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:16:10,784 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:16:11,024 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:16:11,210 [main] INFO logger_file - User is signed into account
+2023-06-15 23:16:11,490 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:16:12,184 [main] INFO logger_file - User clicked on remove card information
+2023-06-15 23:16:12,194 [main] INFO logger_file - Payement details has been removed successfully
+2023-06-15 23:16:16,313 [main] INFO logger_file - User is on homepage
+2023-06-15 23:16:16,609 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:16:16,909 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:16:17,149 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:16:17,336 [main] INFO logger_file - User is signed into account
+2023-06-15 23:16:17,616 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:16:17,867 [main] INFO logger_file - User clicked on add address box
+2023-06-15 23:16:18,675 [main] INFO logger_file - User has sucessfully entered information into the address form
+2023-06-15 23:16:18,976 [main] INFO logger_file - User clicked on address button
+2023-06-15 23:16:19,644 [main] INFO logger_file - Address has been successfully added
+2023-06-15 23:16:23,763 [main] INFO logger_file - User is on homepage
+2023-06-15 23:16:24,049 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:16:24,158 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:16:24,396 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:16:24,597 [main] INFO logger_file - User is signed into account
+2023-06-15 23:16:24,879 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:16:25,458 [main] INFO logger_file - User clicked on edit address button
+2023-06-15 23:16:26,192 [main] INFO logger_file - User changed their address information
+2023-06-15 23:16:26,475 [main] INFO logger_file - User clicked on the update address button
+2023-06-15 23:16:27,064 [main] INFO logger_file - User has successfully updated their address information
+2023-06-15 23:16:31,628 [main] INFO logger_file - User is on homepage
+2023-06-15 23:16:32,038 [main] INFO logger_file - User clicked on Sign In option
+2023-06-15 23:16:32,146 [main] INFO logger_file - User entered email and password field
+2023-06-15 23:16:32,385 [main] INFO logger_file - User clicked on login button
+2023-06-15 23:16:32,605 [main] INFO logger_file - User is signed into account
+2023-06-15 23:16:32,893 [main] INFO logger_file - User clicked on account option
+2023-06-15 23:16:33,090 [main] INFO logger_file - The number of address on file before removal is: 3
+2023-06-15 23:16:33,348 [main] INFO logger_file - User clicked on remove address button
+2023-06-15 23:16:33,349 [main] INFO logger_file - Address details has been removed successfully.

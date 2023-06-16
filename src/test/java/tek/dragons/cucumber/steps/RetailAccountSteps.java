@@ -227,17 +227,25 @@ public class RetailAccountSteps extends CommonUtility {
 		logger.info("User has successfully updated their address information");
 	}
 
+	//public static int addressCount;
+	
 	@And("User click on remove option of Address section")
 	public void userClickOnRemoveOptionOfAddressSection() {
-		scrollPageDownWithJS();
+		//scrollPageDownWithJS();
+		
+		int addressesOnFile = factory.RetailAccount().addressCount.size();
+		logger.info("The number of address on file before removal is: " + addressesOnFile);
 		click(factory.RetailAccount().removeAddressBtn);
+		int addressesOnFileAfterRemoval = factory.RetailAccount().addressCount.size();
+		assertFalse(addressesOnFile == addressesOnFileAfterRemoval);
 		logger.info("User clicked on remove address button");
 	}
 
 	@Then("Address details should be removed")
 	public void addressDetailsShouldBeRemoved() {
-		assertFalse(isElementDisplayed(factory.RetailAccount().removeAddressBtn));
+		
 		logger.info("Address details has been removed successfully.");
 	}
-
+	
 }
+

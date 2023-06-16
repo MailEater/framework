@@ -20,7 +20,7 @@ public class BaseSetup {
 	public static Logger logger;
 
 	public BaseSetup() {
-		// we need to get the path to env_config and log4j files and storre them
+		// we need to get the path to env_config and log4j files and store them
 		// as a String
 		String filePath = ".\\src\\main\\resources\\env_config.yml";
 		String log4jPath = ".\\src\\main\\resources\\log4j.properties";

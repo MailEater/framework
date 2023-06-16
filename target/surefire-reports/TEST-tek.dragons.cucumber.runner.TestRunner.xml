@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="tek.dragons.cucumber.runner.TestRunner" time="52.733" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\mials\eclipse-workspace\tek.dragons.cucumber\target\test-classes;C:\Users\mials\eclipse-workspace\tek.dragons.cucumber\target\classes;C:\Users\mials\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\mials\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\mials\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\mials\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\mials\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\mials\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\mials\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\mials\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\mials\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\mials\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-junit\7.8.0\cucumber-junit-7.8.0.jar;C:\Users\mials\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\mials\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-java\4.8.3\selenium-java-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-api\4.8.3\selenium-api-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.8.3\selenium-chrome-driver-4.8.3.jar;C:\Users\mials\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\mials\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\mials\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\mials\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\mials\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\mials\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\mials\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.8.3\selenium-chromium-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-json\4.8.3\selenium-json-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.8.3\selenium-manager-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v109\4.8.3\selenium-devtools-v109-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v110\4.8.3\selenium-devtools-v110-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v111\4.8.3\selenium-devtools-v111-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.8.3\selenium-devtools-v85-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.8.3\selenium-edge-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.8.3\selenium-firefox-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-http\4.8.3\selenium-http-4.8.3.jar;C:\Users\mials\.m2\repository\dev\failsafe\failsafe\3.3.1\failsafe-3.3.1.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.8.3\selenium-ie-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.8.3\selenium-remote-driver-4.8.3.jar;C:\Users\mials\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\mials\.m2\repository\io\netty\netty-buffer\4.1.90.Final\netty-buffer-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec-http\4.1.90.Final\netty-codec-http-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec\4.1.90.Final\netty-codec-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-handler\4.1.90.Final\netty-handler-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-common\4.1.90.Final\netty-common-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.90.Final\netty-transport-classes-epoll-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.90.Final\netty-transport-classes-kqueue-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-epoll\4.1.90.Final\netty-transport-native-epoll-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.90.Final\netty-transport-native-kqueue-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.90.Final\netty-transport-native-unix-common-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport\4.1.90.Final\netty-transport-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-resolver\4.1.90.Final\netty-resolver-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api\1.24.0\opentelemetry-api-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-context\1.24.0\opentelemetry-context-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.24.0\opentelemetry-exporter-logging-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.24.0\opentelemetry-sdk-metrics-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.24.0-alpha\opentelemetry-sdk-logs-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.24.0-alpha\opentelemetry-api-logs-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.24.0-alpha\opentelemetry-api-events-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.24.0\opentelemetry-sdk-common-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.24.0\opentelemetry-sdk-extension-autoconfigure-spi-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.24.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.24.0\opentelemetry-sdk-trace-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.24.0\opentelemetry-sdk-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.24.0-alpha\opentelemetry-semconv-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\mials\.m2\repository\net\bytebuddy\byte-buddy\1.14.2\byte-buddy-1.14.2.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mials\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\mials\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\mials\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\mials\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\mials\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.8.3\selenium-safari-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-support\4.8.3\selenium-support-4.8.3.jar;C:\Users\mials\.m2\repository\io\github\bonigarcia\webdrivermanager\5.3.0\webdrivermanager-5.3.0.jar;C:\Users\mials\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\mials\.m2\repository\com\google\code\gson\gson\2.9.1\gson-2.9.1.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java\3.2.13\docker-java-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-core\3.2.13\docker-java-core-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\mials\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\mials\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\mials\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.13\docker-java-transport-httpclient5-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\mials\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\mials\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\mials\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\mials\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\mials\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\mials\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\mials\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\mials\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar;C:\Users\mials\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar;C:\Users\mials\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\mials\.m2\repository\org\yaml\snakeyaml\1.33\snakeyaml-1.33.jar;C:\Users\mials\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="America/Los_Angeles"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Users\mials\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\mials\AppData\Local\Temp\surefire9591106394190017272\surefirebooter-20230615231541057_3.jar C:\Users\mials\AppData\Local\Temp\surefire9591106394190017272 2023-06-15T23-15-40_516-jvmRun1 surefire-20230615231541057_1tmp surefire_0-20230615231541057_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\mials\eclipse-workspace\tek.dragons.cucumber\target\test-classes;C:\Users\mials\eclipse-workspace\tek.dragons.cucumber\target\classes;C:\Users\mials\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\mials\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\mials\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\mials\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\mials\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\mials\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\mials\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\mials\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\mials\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\mials\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\mials\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\mials\.m2\repository\io\cucumber\cucumber-junit\7.8.0\cucumber-junit-7.8.0.jar;C:\Users\mials\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\mials\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-java\4.8.3\selenium-java-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-api\4.8.3\selenium-api-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.8.3\selenium-chrome-driver-4.8.3.jar;C:\Users\mials\.m2\repository\com\google\auto\service\auto-service-annotations\1.0.1\auto-service-annotations-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\auto\service\auto-service\1.0.1\auto-service-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\auto\auto-common\1.2\auto-common-1.2.jar;C:\Users\mials\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;C:\Users\mials\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\mials\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\mials\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\mials\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar;C:\Users\mials\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar;C:\Users\mials\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.8.3\selenium-chromium-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-json\4.8.3\selenium-json-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.8.3\selenium-manager-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v109\4.8.3\selenium-devtools-v109-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v110\4.8.3\selenium-devtools-v110-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v111\4.8.3\selenium-devtools-v111-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.8.3\selenium-devtools-v85-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.8.3\selenium-edge-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.8.3\selenium-firefox-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-http\4.8.3\selenium-http-4.8.3.jar;C:\Users\mials\.m2\repository\dev\failsafe\failsafe\3.3.1\failsafe-3.3.1.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.8.3\selenium-ie-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.8.3\selenium-remote-driver-4.8.3.jar;C:\Users\mials\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\mials\.m2\repository\io\netty\netty-buffer\4.1.90.Final\netty-buffer-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec-http\4.1.90.Final\netty-codec-http-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec\4.1.90.Final\netty-codec-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-handler\4.1.90.Final\netty-handler-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-common\4.1.90.Final\netty-common-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.90.Final\netty-transport-classes-epoll-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.90.Final\netty-transport-classes-kqueue-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-epoll\4.1.90.Final\netty-transport-native-epoll-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.90.Final\netty-transport-native-kqueue-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.90.Final\netty-transport-native-unix-common-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport\4.1.90.Final\netty-transport-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-resolver\4.1.90.Final\netty-resolver-4.1.90.Final.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api\1.24.0\opentelemetry-api-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-context\1.24.0\opentelemetry-context-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.24.0\opentelemetry-exporter-logging-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.24.0\opentelemetry-sdk-metrics-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.24.0-alpha\opentelemetry-sdk-logs-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api-logs\1.24.0-alpha\opentelemetry-api-logs-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.24.0-alpha\opentelemetry-api-events-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.24.0\opentelemetry-sdk-common-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.24.0\opentelemetry-sdk-extension-autoconfigure-spi-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.24.0-alpha\opentelemetry-sdk-extension-autoconfigure-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.24.0\opentelemetry-sdk-trace-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.24.0\opentelemetry-sdk-1.24.0.jar;C:\Users\mials\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.24.0-alpha\opentelemetry-semconv-1.24.0-alpha.jar;C:\Users\mials\.m2\repository\io\ous\jtoml\2.0.0\jtoml-2.0.0.jar;C:\Users\mials\.m2\repository\net\bytebuddy\byte-buddy\1.14.2\byte-buddy-1.14.2.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\mials\.m2\repository\org\asynchttpclient\async-http-client\2.12.3\async-http-client-2.12.3.jar;C:\Users\mials\.m2\repository\org\asynchttpclient\async-http-client-netty-utils\2.12.3\async-http-client-netty-utils-2.12.3.jar;C:\Users\mials\.m2\repository\io\netty\netty-codec-socks\4.1.60.Final\netty-codec-socks-4.1.60.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-handler-proxy\4.1.60.Final\netty-handler-proxy-4.1.60.Final.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-epoll\4.1.60.Final\netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar;C:\Users\mials\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.60.Final\netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar;C:\Users\mials\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\mials\.m2\repository\com\typesafe\netty\netty-reactive-streams\2.0.4\netty-reactive-streams-2.0.4.jar;C:\Users\mials\.m2\repository\com\sun\activation\jakarta.activation\1.2.2\jakarta.activation-1.2.2.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.8.3\selenium-safari-driver-4.8.3.jar;C:\Users\mials\.m2\repository\org\seleniumhq\selenium\selenium-support\4.8.3\selenium-support-4.8.3.jar;C:\Users\mials\.m2\repository\io\github\bonigarcia\webdrivermanager\5.3.0\webdrivermanager-5.3.0.jar;C:\Users\mials\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\mials\.m2\repository\com\google\code\gson\gson\2.9.1\gson-2.9.1.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java\3.2.13\docker-java-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-core\3.2.13\docker-java-core-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\mials\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\mials\.m2\repository\org\bouncycastle\bcpkix-jdk15on\1.64\bcpkix-jdk15on-1.64.jar;C:\Users\mials\.m2\repository\org\bouncycastle\bcprov-jdk15on\1.64\bcprov-jdk15on-1.64.jar;C:\Users\mials\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.2.13\docker-java-transport-httpclient5-3.2.13.jar;C:\Users\mials\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\mials\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;C:\Users\mials\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.1.3\httpclient5-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.1.3\httpcore5-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.1.3\httpcore5-h2-5.1.3.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\mials\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\mials\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\mials\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\mials\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\mials\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\mials\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\mials\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\mials\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar;C:\Users\mials\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar;C:\Users\mials\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\mials\.m2\repository\org\yaml\snakeyaml\1.33\snakeyaml-1.33.jar;C:\Users\mials\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\mials"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-12"/>
+    <property name="java.home" value="C:\Users\mials\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="C:\Users\mials\eclipse-workspace\tek.dragons.cucumber"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\mials\AppData\Local\Temp\surefire9591106394190017272\surefirebooter-20230615231541057_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.4.1+1"/>
+    <property name="user.name" value="mials"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.4.1+1"/>
+    <property name="localRepository" value="C:\Users\mials\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\mials\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.4.1"/>
+    <property name="user.dir" value="C:\Users\mials\eclipse-workspace\tek.dragons.cucumber"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\mials\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/mials/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257/jre/bin/server;C:/Users/mials/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.4.v20221004-1257/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\mials\Desktop\Maven\apache-maven-3.9.1\bin;C:\Program Files\Git\cmd;C:\Users\mials\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.101-hotspot\bin;C:\Users\mials\AppData\Local\Microsoft\WindowsApps;;C:\Users\mials\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\mials\eclipse\java-2022-092\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.4.1+1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="Verify User can update Profile Information" classname="Retail Account Page" time="8.071">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can update Profile Information                     # features/RetailAccount.feature:13
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:34)- User updated name and phone values
+  And User update Name â€˜NameValueâ€™ and Phone â€˜PhoneValueâ€™                # tek.dragons.cucumber.steps.RetailAccountSteps.userUpdateNameNameValueAndPhonePhoneValue()
+ INFO [main] (RetailAccountSteps.java:40)- User clicked on update button
+  And User click on Update button                                        # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnUpdateButton()
+ INFO [main] (RetailAccountSteps.java:49)- User information has been updated!
+ INFO [main] (RetailAccountSteps.java:50)- New Name: Lionel Bashirian
+ INFO [main] (RetailAccountSteps.java:51)- New Phone Number: 1-925-370-8796
+  Then user profile information should be updated                        # tek.dragons.cucumber.steps.RetailAccountSteps.userProfileInformationShouldBeUpdated()
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+1686896143032	geckodriver	INFO	Listening on 127.0.0.1:42920
+1686896143314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "281 ... localhost:28105/,http://[::1]:28105/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofile1s1BE9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896143593	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896143597	Marionette	INFO	Listening on port 56248
+WebDriver BiDi listening on ws://127.0.0.1:28105
+Read port: 56248
+1686896143784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:28105/devtools/browser/261ea168-a9ab-49f6-9602-c5ae29142a93
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896149307	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56308
+1686896149310	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896149345	Marionette	INFO	Stopped listening on port 56248
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add a payment method" classname="Retail Account Page" time="7.762">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can add a payment method                           # features/RetailAccount.feature:20
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:57)- User clicked on add payment method link
+  And User click on Add a payment method link                            # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddAPaymentMethodLink()
+ INFO [main] (RetailAccountSteps.java:73)- User has filled in their debit/credit information
+  And User fill Debit or credit card information                         # tek.dragons.cucumber.steps.RetailAccountSteps.userFillDebitOrCreditCardInformation(io.cucumber.datatable.DataTable)
+    | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
+    | cardNumber | nameCard   | 8               | 2035           | securityCode |
+ INFO [main] (RetailAccountSteps.java:79)- User clicked on add your card button
+  And User click on Add your card button                                 # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddYourCardButton()
+ INFO [main] (RetailAccountSteps.java:86)- User has seccessfully added their payment method
+  Then a message should be displayed â€˜Payment Method added successfullyâ€™ # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedPaymentMethodAddedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[1686896150297	geckodriver	INFO	Listening on 127.0.0.1:4391
+1686896150365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "312 ... localhost:31229/,http://[::1]:31229/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileEDCIzQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896150667	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896150671	Marionette	INFO	Listening on port 56313
+Read port: 56313
+WebDriver BiDi listening on ws://127.0.0.1:31229
+1686896150771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:31229/devtools/browser/e0af540e-f3c3-41ec-ba95-dbf25acecfc4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896157114	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56376
+1686896157117	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896157122	Marionette	INFO	Stopped listening on port 56313
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can edit Debit or Credit card" classname="Retail Account Page" time="9.028">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can edit Debit or Credit card                        # features/RetailAccount.feature:29
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                          # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                        # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$'   # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                           # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                                # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                        # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:94)- User is on the card edit section
+  And User click on Edit option of card section                            # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditOptionOfCardSection()
+ INFO [main] (RetailAccountSteps.java:117)- User has successfully edited their debit/credit information
+  And user edit information with below data                                # tek.dragons.cucumber.steps.RetailAccountSteps.userEditInformationWithBelowData(io.cucumber.datatable.DataTable)
+    | cardNumber | nameOnCard | expirationMonth | expirationYear | securityCode |
+    | cardNumber | fullName   | 10              | 2042           | securityCode |
+ INFO [main] (RetailAccountSteps.java:123)- User has clicked on update your card button
+  And user click on Update Your Card button                                # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnUpdateYourCardButton()
+ INFO [main] (RetailAccountSteps.java:130)- User has successfully updated their card information
+  Then a message should be displayed â€˜Payment Method updated Successfullyâ€™ # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[1686896158108	geckodriver	INFO	Listening on 127.0.0.1:38287
+1686896158145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "405 ... localhost:40524/,http://[::1]:40524/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofileOKlIuc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896158440	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896158444	Marionette	INFO	Listening on port 56381
+Read port: 56381
+WebDriver BiDi listening on ws://127.0.0.1:40524
+1686896158541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40524/devtools/browser/d2ed87c8-0d69-434c-b390-07c3350b860b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896166133	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56439
+1686896166136	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896166139	Marionette	INFO	Stopped listening on port 56381
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can remove Debit or Credit card" classname="Retail Account Page" time="6.132">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can remove Debit or Credit card                    # features/RetailAccount.feature:38
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:140)- User clicked on remove card information
+  And User click on remove option of card section                        # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnRemoveOptionOfCardSection()
+ INFO [main] (RetailAccountSteps.java:146)- Payement details has been removed successfully
+  Then payment details should be removed                                 # tek.dragons.cucumber.steps.RetailAccountSteps.paymentDetailsShouldBeRemoved()
+]]></system-out>
+    <system-err><![CDATA[1686896167080	geckodriver	INFO	Listening on 127.0.0.1:12633
+1686896167159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "482 ... localhost:48248/,http://[::1]:48248/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofile4mM68g"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896167461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896167465	Marionette	INFO	Listening on port 56444
+Read port: 56444
+WebDriver BiDi listening on ws://127.0.0.1:48248
+1686896167570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48248/devtools/browser/0483744c-7f81-497d-a282-d1be97ac3447
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896172212	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56512
+1686896172220	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896172230	Marionette	INFO	Stopped listening on port 56444
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can add an Address" classname="Retail Account Page" time="7.481">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can add an Address                                 # features/RetailAccount.feature:43
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:153)- User clicked on add address box
+  And User click on Add address option                                   # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAddAddressOption()
+ INFO [main] (RetailAccountSteps.java:178)- User has sucessfully entered information into the address form
+  And user fill new address form with below information                  # tek.dragons.cucumber.steps.RetailAccountSteps.userFillNewAddressFormWithBelowInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName | phoneNumber | streetAddress | apt | city | state | zipCode |
+    | United States | fullName | phone       | streetAddress | apt | city | state | zipCode |
+ INFO [main] (RetailAccountSteps.java:184)- User clicked on address button
+  And User click Add Your Address button                                 # tek.dragons.cucumber.steps.RetailAccountSteps.userClickAddYourAddressButton()
+ INFO [main] (RetailAccountSteps.java:191)- Address has been successfully added
+  Then a message should be displayed â€˜Address Added Successfullyâ€™        # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedAddressAddedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[1686896173256	geckodriver	INFO	Listening on 127.0.0.1:31032
+1686896173302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "289 ... localhost:28931/,http://[::1]:28931/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofilexXNauL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896173612	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896173616	Marionette	INFO	Listening on port 56517
+Read port: 56517
+WebDriver BiDi listening on ws://127.0.0.1:28931
+1686896173716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:28931/devtools/browser/df717a06-c0b5-4365-b44a-9338a449e9a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896179670	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56574
+1686896179673	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896179677	Marionette	INFO	Stopped listening on port 56517
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can edit an Address added on account" classname="Retail Account Page" time="7.415">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can edit an Address added on account               # features/RetailAccount.feature:52
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:197)- User clicked on edit address button
+  And User click on edit address option                                  # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnEditAddressOption()
+ INFO [main] (RetailAccountSteps.java:214)- User changed their address information
+  And user fill new address form with new information                    # tek.dragons.cucumber.steps.RetailAccountSteps.userFillNewAddressFormWithNewInformation(io.cucumber.datatable.DataTable)
+    | country       | fullName | phoneNumber | streetAddress | apt | city | state | zipCode |
+    | United States | fullName | phone       | streetAddress | apt | city | state | zipCode |
+ INFO [main] (RetailAccountSteps.java:220)- User clicked on the update address button
+  And User click update Your Address button                              # tek.dragons.cucumber.steps.RetailAccountSteps.userClickUpdateYourAddressButton()
+ INFO [main] (RetailAccountSteps.java:227)- User has successfully updated their address information
+  Then a message should be displayed â€˜Address Updated Successfullyâ€™      # tek.dragons.cucumber.steps.RetailAccountSteps.aMessageShouldBeDisplayedAddressUpdatedSuccessfully()
+]]></system-out>
+    <system-err><![CDATA[1686896180697	geckodriver	INFO	Listening on 127.0.0.1:47723
+1686896180752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "824 ... //localhost:8245/,http://[::1]:8245/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofiley3QVCP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896181056	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896181061	Marionette	INFO	Listening on port 56579
+Read port: 56579
+WebDriver BiDi listening on ws://127.0.0.1:8245
+1686896181157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:8245/devtools/browser/5a604cc4-f298-4706-b8a5-428755c0b225
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896187070	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56635
+1686896187073	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896187076	Marionette	INFO	Stopped listening on port 56579
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+  <testcase name="Verify User can remove Address from Account" classname="Retail Account Page" time="6.211">
+    <system-out><![CDATA[
+@smokez
+Scenario: Verify User can remove Address from Account                    # features/RetailAccount.feature:61
+ INFO [main] (HomeSteps.java:24)- User is on homepage
+  Given User is on retail website                                        # tek.dragons.cucumber.steps.HomeSteps.userIsOnRetailWebsite()
+ INFO [main] (SignInStepDefinitions.java:23)- User clicked on Sign In option
+  When User click on Sign in option                                      # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnSignInOption()
+ INFO [main] (SignInStepDefinitions.java:30)- User entered email and password field
+  And User enter email 'hello1234@tekschool.us' and password 'Test1234$' # tek.dragons.cucumber.steps.SignInStepDefinitions.userEnterEmailAndPassword(java.lang.String,java.lang.String)
+ INFO [main] (SignInStepDefinitions.java:37)- User clicked on login button
+  And User click on login button                                         # tek.dragons.cucumber.steps.SignInStepDefinitions.userClickOnLoginButton()
+ INFO [main] (SignInStepDefinitions.java:43)- User is signed into account
+  And User should be logged in into Account                              # tek.dragons.cucumber.steps.SignInStepDefinitions.userShouldBeLoggedInIntoAccount()
+ INFO [main] (RetailAccountSteps.java:25)- User clicked on account option
+  When User click on Account option                                      # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnAccountOption()
+ INFO [main] (RetailAccountSteps.java:237)- The number of address on file before removal is: 3
+ INFO [main] (RetailAccountSteps.java:241)- User clicked on remove address button
+  And User click on remove option of Address section                     # tek.dragons.cucumber.steps.RetailAccountSteps.userClickOnRemoveOptionOfAddressSection()
+ INFO [main] (RetailAccountSteps.java:247)- Address details has been removed successfully.
+  Then Address details should be removed                                 # tek.dragons.cucumber.steps.RetailAccountSteps.addressDetailsShouldBeRemoved()
+]]></system-out>
+    <system-err><![CDATA[1686896188120	geckodriver	INFO	Listening on 127.0.0.1:32442
+1686896188166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "435 ... localhost:43545/,http://[::1]:43545/" "-no-remote" "-profile" "C:\\Users\\mials\\AppData\\Local\\Temp\\rust_mozprofilenGeMPO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686896188456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686896188461	Marionette	INFO	Listening on port 56640
+Read port: 56640
+WebDriver BiDi listening on ws://127.0.0.1:43545
+1686896188559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43545/devtools/browser/3890a24e-6954-4390-950d-8ce514ab853d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tek-retail-ui.azurewebsites.net."
+1686896193400	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:56701
+1686896193402	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1686896193405	Marionette	INFO	Stopped listening on port 56640
+Dynamically enable window occlusion 1
+]]></system-err>
+  </testcase>
+</testsuite>

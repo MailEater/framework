@@ -1,7 +1,7 @@
-@smoke
+@Regression
 Feature: Sign In Features
 
-  @signIn
+  
   Scenario: Verify user can sign in into Retail Application
     Given User is on retail website
     When User click on Sign in option
@@ -9,7 +9,7 @@ Feature: Sign In Features
     And User click on login button
     Then User should be logged in into Account
 
-	@createAccount
+	
   Scenario: Verify user can create an account into Retail Website
     Given User is on retail website
     When User click on Sign in option
